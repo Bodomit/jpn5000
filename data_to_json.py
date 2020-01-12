@@ -47,7 +47,7 @@ PARTS_OF_SPEECH = [
 ]
 
 ENTRY_START_PATTERN = re.compile(r'^\d+\s(\(\u304A\)s?)?[' + JAPANESE_CHARACTERS + ']+')
-ENTRY_END_LINE_PATTERN = re.compile(r'\d+\s\|\s\d\.\d\d')
+ENTRY_END_LINE_PATTERN = re.compile(r'\d+\s\|\s\d\.\d\d(?:\s\|\s\w+)?$')
 PARTS_OF_SPEECH_PATTERN = re.compile(r'(' + r'|'.join([re.escape(x) for x in PARTS_OF_SPEECH]) + r')')
 ID_JAPANESE_ROMAJI_PATTERN = re.compile(r'^(\d)+\s([\w\s\.\,\(\)\<' + JAPANESE_CHARACTERS + r']+)\s([\w\(\)\-]+)')
 
