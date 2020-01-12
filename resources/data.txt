@@ -53,7 +53,8 @@ Osaka.
  僕は英語が苦手だ。 — I’m not good at 
 English.
 27686 | 0.99 | BK
-7	が ga p. case NOMINATIVE  こちらが私の妻です。 — This is my wife.
+7	が ga p. case NOMINATIVE  
+こちらが私の妻です。 — This is my wife.
 26904 | 1.00 | BK
 8	て te p. conj. REASON
  お金がなくて、海外旅行できない。 —  
@@ -75,7 +76,8 @@ Tokyo station.
 13	ている，てる te iru, teru cp. CONTINUATION
 	雨が降っている。 — It’s raining.
 13555 | 0.99
-14	です desu aux. COPULA (polite)  彼は独身です。 — He is single.
+14	です desu aux. COPULA (polite)  
+彼は独身です。 — He is single.
 9828 | 0.83 | WB
 15	れる reru aux. PASSIVE
 	日本で使われている通貨は円です。 — The currency used in Japan is yen.
@@ -87,7 +89,7 @@ Tokyo station.
 	今年はいろいろな事があった。 — All kinds of things happened this year.
 8747 | 0.96
 18	えー, ええ ee interj. eh?, what?; well, yes
-	あの人は、えー、ちょっと名前が思い出せません。 — That man is  .  .  .  , well I cannot remember his name.
+	あの人は、えー、ちょっと名前が思い出せません。 — That man is ... , well I cannot remember his name.
 	ええ、そうです。 — Right.
 8636 | 0.07 | SP
 19	言う iu, yuu v. say, speak, talk
@@ -190,7 +192,7 @@ Variation of watashi (I): The most formal variant, watakushi, is used most frequ
 46	この kono adn. this
 	この本をもう読みましたか。 — Have you read this book?
 2974 | 0.97 | BK
-47	無い nai i-adj. There is no  .  .  .  , no  .  .  .
+47	無い nai i-adj. There is no ... , no  .  .  .
 	今、お金が無いんです。 — I have no money now.
 2953 | 0.96
 48	行く iku, yuku v. go; come  すぐ行きます。 — I’m just coming.
@@ -246,7 +248,7 @@ invited our family and friends to the wedding.
 1876 | 0.92
 65	その sono interj. uh, er, um, mm
  「どうして授業を休んだの。」「それは、そ 
-の  .  .  .  。」 — “Why were you absent from the class?” “Uh, well  .  .  .”
+の ... 。」 — “Why were you absent from the class?” “Uh, well  .  .  .”
 1868 | 0.01 | SP
 66	まで made p. to, till, until
 	休暇は明日から来週の水曜日までです。 — 
@@ -1094,7 +1096,7 @@ v. (tele)phone, call
 225 | 0.89
 325	長い nagai i-adj. long  彼女は髪が長い。 — Her hair is long.
 224 | 0.97
-326	ことになる koto ni naru cp. it happens that  .  .  .  , it is decided that
+326	ことになる koto ni naru cp. it happens that ... , it is decided that
 	来月、神戸へ転勤することになりました。 — 
 They’ve decided to move me to Kobe next month.
 224 | 0.80
@@ -1829,7 +1831,7 @@ v. understand
 548	中国 chuugoku n. China
 	中国は長い歴史を持っている。 — China has a long history.
 123 | 0.99  
-549 ずつ  .  .  .  zutsu p. each, .  .  .  by  .  .  . 母親は子供にキャンディを一つずつあげた。 
+549 ずつ ... zutsu p. each,... by ...母親は子供にキャンディを一つずつあげた。 
 — The mother gave her children candies, one each.
 123 | 0.97
 550	母親 hahaoya n. mother
@@ -2957,7 +2959,7 @@ v. exercise, move
 897	幸せ shiawase na-adj.happy n. happiness; fortune, luck
 	お二人の幸せを祈ります。 — I wish you both every happiness.
 72 | 0.87
-898	通す toosu v. pass, show  .  .  .  into
+898	通す toosu v. pass, show ... into
 	彼女は友達を部屋に通した。 — She showed her friends into the room.
 72 | 0.95
 899	横 yoko n. side, beside
@@ -4266,7 +4268,7 @@ Our company is expanding its overseas business.
 1263	肉 niku n. meat, flesh, fat
 	お肉は食べられないんです。 — I can’t eat meat.
 48 | 0.91
-1264	なるべく narubeku adv. as  .  .  .  as possible, if possible
+1264	なるべく narubeku adv. as ... as possible, if possible
 	なるべく多くの情報を集めてください。 — You should gather as much information as possible.
 48 | 0.91
 1265	指 yubi n. finger
@@ -4291,7 +4293,7 @@ Our company is expanding its overseas business.
 	たくさん練習する人としない人の間には差がつく。 — There will be a big gap between people 
 who practice a lot and people who do not.
 48 | 0.98
-1272	一切 issai adv., n. all, entirely, not  .  .  .  at all
+1272	一切 issai adv., n. all, entirely, not ... at all
 	いくら掛かるかは一切気にしません。 —  
 I don’t care at all how much it will cost.
 48 | 0.98
@@ -5813,7 +5815,7 @@ v. devise, plan
 35 | 0.92
 1699	触る sawaru v. touch 絵に触らないでください。 — Please don’t touch the paintings.
 35 | 0.88
-1700	教室 kyoushitsu n. classroom, .  .  .  school
+1700	教室 kyoushitsu n. classroom,... school
 	この教室はとても小さい。 — This classroom is very small.
 35 | 0.89
 1701	登録(する) touroku(suru) n. registration, entry v. register, enroll
@@ -8016,7 +8018,7 @@ calculate how much money I will need for my mother’s care.
 	その機関の実態を知ったら、驚くだろう。 — 
 You’d be surprised if you knew the organization’s real situation.
 24 | 0.61
-2351	によれば ni yore ba cp. according to,  .  .  .  say
+2351	によれば ni yore ba cp. according to, ... say
 	天気予報によれば、明日は晴れるだろう。 — 
 According to the forecast, it will be sunny tomorrow.
 24 | 0.72
@@ -8032,7 +8034,7 @@ According to the forecast, it will be sunny tomorrow.
 2355	依頼(する) irai(suru) n. request v. request, ask  出版者は新しい本の出版を彼女に依頼した。 
 — A publisher asked her for a new book.
 24 | 0.97
-2356	もはや mohaya adv. now, already; not  .  .  .  any longer
+2356	もはや mohaya adv. now, already; not ... any longer
 	もはや増税は避けられないだろう。 — A tax increase will no longer be avoidable.
 24 | 0.80
 2357	真 shin n. truth; reality
@@ -8648,7 +8650,7 @@ v. gather information
 2537	曲がる magaru v. bend, wind; turn
 	角を曲がると、郵便局がある。 — When you turn the corner, you’ll find the post office.
 21 | 0.93
-2538	ては te wa p., conj. alternately do  .  .  .  and  .  .  .  彼女は彼の写真を見ては溜息をついた。 — 
+2538	ては te wa p., conj. alternately do ... and ... 彼女は彼の写真を見ては溜息をついた。 — 
 She sighed whenever she saw his photo.
 21 | 0.01 | SP
 2539	前年 zennen n. previous year, year before
@@ -9388,7 +9390,7 @@ French at university.
 2768	おまけ omake n. addition, free gift
 	お菓子のおまけを集める。 — I collect free gifts that come inside boxes of sweets.
 19 | 0.83
-2769	をはじめ o hajime p. starting with  .  .  .  , including
+2769	をはじめ o hajime p. starting with ... , including
 	校長をはじめとして、学校全体がその案に賛
 成した。 — The entire school, including the principal, agreed with that idea.
 19 | 0.74
@@ -11800,7 +11802,7 @@ My grandfather and my father often play shogi together.
 3460	輪 wa n. circle, ring; loop
 	輪になって座りましょう。 — Let’s sit down in a circle.
 14 | 0.91
-3461	ならびに narabi ni conj. and, both  .  .  .  and
+3461	ならびに narabi ni conj. and, both ... and
 	これは第四条ならびに第五条に規定されている。 — This is prescribed in Articles 4 and 5.
 14 | 0.31
 3462	男達 otoko-tachi n. men
@@ -13011,7 +13013,7 @@ We’ll make an overnight trip over the weekend.
 (今月・先月・来月) (Month)
 今月 kongetsu 14.267 this month 来月 raigetsu 6.136 next month 先月 sengetsu 5.769 last month
 (今年・去年・来年) (Year)
-今年 kotoshi 135.708 this year 去年 kyonen 58.482 last year 来年 rainen 29.188 next year 一昨年 issaku nen 4.557 year before last 再来年 sarai-nen 0.795 year after next	(毎～) (Every  .  .  .  )
+今年 kotoshi 135.708 this year 去年 kyonen 58.482 last year 来年 rainen 29.188 next year 一昨年 issaku nen 4.557 year before last 再来年 sarai-nen 0.795 year after next	(毎～) (Every ... )
 毎日 mainichi 211.838 every day 毎年 maitoshi 63.465 every year, annually 毎週 maishuu 17.765 every week 毎朝 maiasa 12.069 every morning 毎晩 maiban 3.983 every night
 (月) (Months) 四月 shi-gatsu 99.944 April 三月 san-gatsu 91.185 March 九月 ku-gatsu 78.931 September 十月 juu-gatsu 77.383 October 十二月 juuni-gatsu 75.337 December 一月 ichi-gatsu 74.787 January 八月 hachi-gatsu 74.100 August 七月 shichi-gatsu 73.955 July 五月 go-gatsu 73.788 May 六月 roku-gatsu 73.301 June 十一月 juuichi-gatsu 73.110 November 二月 ni-gatsu 68.017 February
 (今朝・今晩) (Tonight, etc.) 今夜 kon’ya 19.129 tonight 今朝 kesa 18.571 this morning 今晩 konban 3.796 this evening, tonight
@@ -15877,7 +15879,7 @@ My son was baptized as soon as he was born.
 4640	捕らわれる torawareru v. be arrested, be captured, stick to
 	彼は詐欺をして捕らわれた。 — He was arrested for fraud.
 9 | 0.92
-4641	日本一 nihon ichi n. most  .  .  .  in Japan
+4641	日本一 nihon ichi n. most ... in Japan
 富士山は日本一高い山です。 — Mt. Fuji is the highest mountain in Japan.
 9 | 0.88
 4642	トンネル tonneru n. tunnel
@@ -16019,7 +16021,7 @@ meeting went on and on for five hours.
 4681	深さ fuka-sa n. depth
 	その湖の深さは5メートルです。 — The lake is five meters deep.
 9 | 0.95
-4682	～さん  .  .  .  san suffix Mr., Mrs., Miss., Ms.
+4682	～さん ... san suffix Mr., Mrs., Miss., Ms.
 	田中さんをご紹介します。 — May I introduce 
 Mr. Tanaka?
 9 | 0.65
@@ -16340,7 +16342,7 @@ calculated the expenses at the end of  the year.
 	火事で我が家は大きな損害を受けた。 — 
 The fire caused great damage to our house.
 9 | 0.76
-4775	のみならず nomi nara zu p. not only  .  .  .  but, as well as
+4775	のみならず nomi nara zu p. not only ... but, as well as
 	彼は日本のみならず、海外でも有名な学者だ。 
 — He is a famous scholar not only in Japan, but also abroad.
 9 | 0.70
@@ -16537,7 +16539,7 @@ examination was more difficult than I expected.
 4826	譲渡(する) jouto(suru) n. transfer v. transfer, hand over
  彼は娘に全ての株式を譲渡した。 — He handed all of his shares over to his daughter.
 9	| 0.65
-4827	でもある de mo aru aux. be  .  .  .  , too
+4827	でもある de mo aru aux. be ... , too
  彼女は二児の母親でもある。 — She is also  a mother of two children.
 9	| 0.79
 4828	挫折(する) zasetsu(suru) n. setback v. fail
