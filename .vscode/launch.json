@@ -10,6 +10,13 @@
             "request": "launch",
             "program": "${workspaceFolder}/data_to_json.py",
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: Transliterate",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/transliterate.py",
+            "console": "integratedTerminal"
         }
     ]
 }

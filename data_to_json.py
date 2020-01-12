@@ -59,7 +59,7 @@ def read_data() -> List[List[str]]:
         lines = in_file.readlines()
 
     
-    entry_lines = []
+    entry_lines : List[str] = []
     entries = []
 
     for line in lines:
@@ -90,27 +90,30 @@ def parse_entry(entry: List[str]) -> Dict:
 
 def parse_header(header: str) -> Dict:
     splits = PARTS_OF_SPEECH_PATTERN.split(header)
-    id, japanese, romanji = ID_JAPANESE_ROMAJI_PATTERN.match(splits[0]).groups()
+    
+    id_jp_roj = ID_JAPANESE_ROMAJI_PATTERN.match(splits[0])
+    assert id_jp_roj is not None
+    id, japanese, romanji = id_jp_roj.groups()
 
     usages = splits[1:]
     assert len(usages) % 2 == 0
-    usages = {usages[i]: usages[i+1] for i in range(0, len(usages)//2, 2)}
+    usages_dict = {usages[i]: usages[i+1] for i in range(0, len(usages)//2, 2)}
 
     return {
         "entry_id": id,
         "entry_name": japanese,
         "romaji": romanji,
-        "usages": usages
+        "usages": usages_dict
     }
 
-def parse_example(example_lines : List[str]) -> Dict:
+def parse_example(example_lines : List[str]) -> List[Dict[str, str]]:
     example_text = " ".join(example_lines)
     example_text = ENTRY_END_LINE_PATTERN.sub("", example_text)
     example_text = example_text.strip()
 
     examples = EXAMPLE_PATTERN.findall(example_text)
 
-    parsed_examples = []
+    parsed_examples : List[Dict[str, str]] = []
     for example in examples:
         japanese, english = example.split(u'\u2014')
         parsed_examples.append({
@@ -124,7 +127,7 @@ def main():
     parsed_entries = parse_entries(raw_entries)
     
     with open(os.path.join("resources", "data.json"), 'w', encoding='utf8') as out_file:
-        json.dump(parsed_entries, out_file, indent=4, sort_keys=True)
+        json.dump(parsed_entries, out_file, indent=4, sort_keys=True, ensure_ascii=False)
 
 if __name__ == "__main__":
     main()
