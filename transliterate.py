@@ -6,6 +6,7 @@ import json
 import MeCab
 
 from typing import List, Dict, Tuple
+from utils import save_data, load_data
 
 wakati = MeCab.Tagger("-Owakati")
 yomi = MeCab.Tagger("-Oyomi")
@@ -18,14 +19,6 @@ def transliterate(text: str) -> Tuple[List[str], List[str]]:
         kana.append(yomi.parse(word).strip())
     
     return words, kana
-
-def load_data() -> List[Dict]:
-    with open(os.path.join("resources", "data.json"), "r", encoding="utf-8") as in_file:
-        return json.load(in_file)
-
-def save_data(entries: List[Dict]):
-    with open(os.path.join("resources", "data.json"), "w", encoding="utf-8") as out_file:
-        return json.dump(entries, out_file, indent=4, ensure_ascii=False, sort_keys=True)
 
 def main():
     entries = load_data()

@@ -17,6 +17,13 @@
             "request": "launch",
             "program": "${workspaceFolder}/transliterate.py",
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: Text to Speech",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/text_to_speech.py",
+            "console": "integratedTerminal"
         }
     ]
 }

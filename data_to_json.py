@@ -6,6 +6,8 @@ import re
 import json
 from typing import List, Dict
 
+from utils import save_data
+
 JAPANESE_CHARACTERS = r'\u3000-\u303f\u3040-\u309f\u30a0-\u30ff\uff00-\uff9f\u4e00-\u9faf\u3400-\u4dbf'
 ANTI_JAPANESE_CHARACTERS = r'^\u3000-\u303f^\u3040-\u309f^\u30a0-\u30ff^\uff00-\uff9f^\u4e00-\u9faf^\u3400-\u4dbf'
 
@@ -125,9 +127,7 @@ def parse_example(example_lines : List[str]) -> List[Dict[str, str]]:
 def main():
     raw_entries = read_data()
     parsed_entries = parse_entries(raw_entries)
-    
-    with open(os.path.join("resources", "data.json"), 'w', encoding='utf8') as out_file:
-        json.dump(parsed_entries, out_file, indent=4, sort_keys=True, ensure_ascii=False)
+    save_data(parsed_entries)
 
 if __name__ == "__main__":
     main()
