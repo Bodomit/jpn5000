@@ -3,6 +3,7 @@
 
 import os
 import random
+import time
 from google.cloud import texttospeech
 
 from utils import save_data, load_data
@@ -18,8 +19,12 @@ voices = [
 
 def text_to_speech(text: str, path: str): 
     synthesis_input = texttospeech.types.SynthesisInput(text=text)
-
     for i, voice_name in enumerate(voices):
+        time.sleep(1)
+        full_path = path + "_v{}.mp3".format(i)
+        if os.path.isfile(full_path):
+            continue
+
         voice = texttospeech.types.VoiceSelectionParams(
             name=voice_name,
             language_code='ja-JP')
@@ -27,6 +32,7 @@ def text_to_speech(text: str, path: str):
             audio_encoding=texttospeech.enums.AudioEncoding.MP3)
 
         response = client.synthesize_speech(synthesis_input, voice, audio_config)
+        
 
         with open(path + "_v{}.mp3".format(i), 'wb') as out:
             out.write(response.audio_content)
@@ -34,7 +40,7 @@ def text_to_speech(text: str, path: str):
 def main():
     entries = load_data()
     base_path = os.path.join("C:\\", "Users", "40057686", "OneDrive", "JPN5000_Audio2")
-    os.makedirs(base_path)
+    os.makedirs(base_path, exist_ok=True)
 
     for entry in entries:
         id = int(entry["data"]["entry_id"])
