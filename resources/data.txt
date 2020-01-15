@@ -16529,7 +16529,7 @@ Plastic toys do not not break easily.
 4965	塔 tou n. tower
  向こうに塔が二つ建っている。 — Two towers stand over there.
 9	| 0.87
-4966	家 uchi n house, home  家においでよ。 — Come to my house.
+4966	家 uchi n. house, home  家においでよ。 — Come to my house.
 9	| 0.48
 4967	六年生 roku nen-sei n. sixth grade, sixth year  娘は六年生です。 — My daughter is in Year 
 Six.

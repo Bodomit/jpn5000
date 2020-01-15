@@ -11,24 +11,24 @@ from utils import save_data
 JAPANESE_CHARACTERS = r'\u3000-\u303f\u3040-\u309f\u30a0-\u30ff\uff00-\uff9f\u4e00-\u9faf\u3400-\u4dbf'
 ANTI_JAPANESE_CHARACTERS = r'^\u3000-\u303f^\u3040-\u309f^\u30a0-\u30ff^\uff00-\uff9f^\u4e00-\u9faf^\u3400-\u4dbf'
 
-EXCEPTIONS = [
-        "1864	0 rei n. zero",
-        "1868	CM shiiemu n. commercial",
-        "2613	NHK enueichikei, enuechikei n. Nihon",
-        "2710	IT aitii n. IT",
-        "2763	PC piishii n. personal computer",
-        "3396	OS ooesu n. operating system",
-        "3502	Eメール ii meeru n. e-mail",
-        "3703	DVD diibuidii n. DVD",
-        "3900	HP hoomupeeji n. home page",
-        "3911	Tシャツ tii shatsu n. T-shirt",
-        "4137	TV terebi n. television",
-        "4175	ID aidii n. identification, ID",
-        "4343	WWW daburyuudaburyuudaburyuu n. World Wide Web",
-        "4584	DNA diienuee n. DNA, deoxyribonucleic acid",
-        "4787	OB oobii n. OB (old boy), alumnus",
-        "4916	URL yuuaarueru n. URL, Uniform Resource Locator"
-    ]
+EXCEPTIONS = {
+        "1864	0 rei n. zero" : ("1864", "0", "rei"),
+        "1868	CM shiiemu n. commercial" : ("1868", "CM", "shiiemu"),
+        "2613	NHK enueichikei, enuechikei n. Nihon": ("2613", "NHK", "enueichikei, enuechikei"),
+        "2710	IT aitii n. IT": ("2710", "IT", "aitii"),
+        "2763	PC piishii n. personal computer": ("2763", "PC", "piishii"),
+        "3396	OS ooesu n. operating system": ("3396", "OS", "ooesu"),
+        "3502	Eメール ii meeru n. e-mail": ("3502", "Eメール", "ii meeru"),
+        "3703	DVD diibuidii n. DVD": ("3703", "DVD", "diibuidii"),
+        "3900	HP hoomupeeji n. home page": ("3900", "HP", "hoomupeeji"),
+        "3911	Tシャツ tii shatsu n. T-shirt": ("3911", "Tシャツ", "tii shatsu"),
+        "4137	TV terebi n. television": ("4137", "TV", "terebi"),
+        "4175	ID aidii n. identification, ID": ("4175", "ID", "aidii"),
+        "4343	WWW daburyuudaburyuudaburyuu n. World Wide Web": ("4343", "WWW", "daburyuudaburyuudaburyuu"),
+        "4584	DNA diienuee n. DNA, deoxyribonucleic acid": ("4584", "DNA", "diienuee"),
+        "4787	OB oobii n. OB (old boy), alumnus": ("4787", "OB", "oobii"),
+        "4916	URL yuuaarueru n. URL, Uniform Resource Locator": ("4916", "URL", "yuuaarueru")
+}
 
 PARTS_OF_SPEECH = [
     "p. case",
@@ -53,7 +53,7 @@ ENTRY_START_PATTERN = re.compile(r'^\d+\s(\(\u304A\)s?)?[' + JAPANESE_CHARACTERS
 ENTRY_END_LINE_PATTERN = re.compile(r'\d+\s\|\s\d\.\d\d(?:\s\|\s\w+)?$')
 ENTRY_END_LINE_ANYWHERE_PATTERN = re.compile(r'\d+\s\|\s\d\.\d\d(?:\s\|\s\w+)?')
 PARTS_OF_SPEECH_PATTERN = re.compile(r'(' + r'|'.join([re.escape(x) for x in PARTS_OF_SPEECH]) + r')')
-ID_JAPANESE_ROMAJI_PATTERN = re.compile(r'^(\d+)+\s([\w\s\.\,\(\)\<' + JAPANESE_CHARACTERS + r']+)\s([\w\(\)\-]+)')
+ID_JAPANESE_ROMAJI_PATTERN = re.compile(r'^(\d+)+\s([\w\s\.\,\(\)\<' + JAPANESE_CHARACTERS + r']*(?:\)|[' + JAPANESE_CHARACTERS + r']|\d))\s((?:\(|(?:\.\.\.)|\w|-)[\s\w\(\)\-\,]+)')
 EXAMPLE_PATTERN  = re.compile(r'[' + JAPANESE_CHARACTERS + r']+\s\u2014+\s[' + ANTI_JAPANESE_CHARACTERS + r']+')
 
 def read_data() -> List[List[str]]:
@@ -95,8 +95,14 @@ def parse_header(header: str) -> Dict:
     splits = PARTS_OF_SPEECH_PATTERN.split(header)
     
     id_jp_roj = ID_JAPANESE_ROMAJI_PATTERN.match(splits[0])
-    assert id_jp_roj is not None
-    id, japanese, romanji = id_jp_roj.groups()
+    try:
+        assert id_jp_roj is not None
+        id, japanese, romanji = [x.strip() for x in id_jp_roj.groups()]
+    except AssertionError:
+        if header in EXCEPTIONS:
+            id, japanese, romanji = EXCEPTIONS[header]
+        else:
+            raise
 
     usages = splits[1:]
     assert len(usages) % 2 == 0
