@@ -51,6 +51,7 @@ PARTS_OF_SPEECH = [
 
 ENTRY_START_PATTERN = re.compile(r'^\d+\s(\(\u304A\)s?)?[' + JAPANESE_CHARACTERS + ']+')
 ENTRY_END_LINE_PATTERN = re.compile(r'\d+\s\|\s\d\.\d\d(?:\s\|\s\w+)?$')
+ENTRY_END_LINE_ANYWHERE_PATTERN = re.compile(r'\d+\s\|\s\d\.\d\d(?:\s\|\s\w+)?')
 PARTS_OF_SPEECH_PATTERN = re.compile(r'(' + r'|'.join([re.escape(x) for x in PARTS_OF_SPEECH]) + r')')
 ID_JAPANESE_ROMAJI_PATTERN = re.compile(r'^(\d+)+\s([\w\s\.\,\(\)\<' + JAPANESE_CHARACTERS + r']+)\s([\w\(\)\-]+)')
 EXAMPLE_PATTERN  = re.compile(r'[' + JAPANESE_CHARACTERS + r']+\s\u2014+\s[' + ANTI_JAPANESE_CHARACTERS + r']+')
@@ -118,9 +119,13 @@ def parse_example(example_lines : List[str]) -> List[Dict[str, str]]:
     parsed_examples : List[Dict[str, str]] = []
     for example in examples:
         japanese, english = example.split(u'\u2014')
+        english = ENTRY_END_LINE_ANYWHERE_PATTERN.split(english)[0]
+        # Changes all whitespace to spaces and strips
+        english = " ".join(english.split())
+        
         parsed_examples.append({
             "jp": japanese.strip(),
-            "en": ' '.join(english.split()) # Changes all whitespace to space.
+            "en": english
         })
     return parsed_examples
 
