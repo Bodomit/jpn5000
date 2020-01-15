@@ -7,3 +7,4 @@ dependencies:
 - pip:
   - mecab-python3
   - google-cloud-texttospeech
+  - jaconv
