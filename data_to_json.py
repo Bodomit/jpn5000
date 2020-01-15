@@ -120,7 +120,7 @@ def parse_example(example_lines : List[str]) -> List[Dict[str, str]]:
         japanese, english = example.split(u'\u2014')
         parsed_examples.append({
             "jp": japanese.strip(),
-            "en": english.strip()
+            "en": ' '.join(english.split()) # Changes all whitespace to space.
         })
     return parsed_examples
 
