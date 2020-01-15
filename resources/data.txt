@@ -319,12 +319,6 @@ She is a doctor as well as a singer.
 87	だけ dake p. only, alone, merely
 	チャンスは一回だけだ。 — I have only one chance.
 1329 | 0.98
- 
- 
-Variation of yahari (as expected/still): Casual yappari and formal yahari are used in all speech registers. yappari is more popular than yahari in dialogue. yappa is more casual than yappari.
- 
-Variation of kurai (about/around): This suffix is often realized as gurai like doregurai (how much) in all speech registers.
- 
 88	くらい, ぐらい kurai, gurai p. about, around
 	彼女は二十歳ぐらいに見える。 — She looks around twenty years old.
 1318 | 0.79
@@ -1324,13 +1318,6 @@ That plant grows around the lake.
 180 | 0.90
 394	嬉しい ureshii i-adj. glad, happy
 	試験に合格して嬉しい。 — I’m glad I passed the exam.
-2 Body 		(frequency per million words)
-目，眼 me 467.309 eye 手 te 406.651 hand 顔 kao 309.511 face 頭 atama 226.889 head 足 ashi 167.325 foot, leg 口 kuchi 158.414 mouth 耳 mimi 85.091 ear
-首 kubi 75.243 neck, head (also firing, sacking (of an employee))
-胸 mune 72.392 chest, heart 肩 kata 58.469 shoulder 腰 koshi 54.982 back, lower back, waist, hip
-腕 ude 53.929 arm (also skill, ability)	指 yubi 48.273 finger 腹 hara 42.044 belly, stomach 歯 ha 40.119 tooth 髪 kami 36.985 hair 鼻 hana 36.484 nose 背中 senaka 35.183 back 肌 hada 34.626 skin 骨 hone 34.407 bone 背 se 32.996 back (also stature) 膝 hiza 31.588 knee, lap 筋肉 kinniku 29.864 muscle 喉 nodo 26.585 throat (also voice) 唇 kuchibiru 26.490 lip 心臓 shinzou 21.016 heart 胃 i 19.729 stomach, belly	尻 o-shiri 18.831 hips 舌 shita 18.603 tongue 爪 tsume 17.709 nail (also claw) 毛 ke 17.503 hair (also fur, wool)
-髪の毛 kami no ke 17.353 hair 皮膚 hifu 16.438 skin 顎 ago 15.310 jaw, chin 手のひら tenohira 14.759 palm 
-(of the hand) 頬 hoo 14.198 cheek 脂肪 shibou 12.027 fat 肝臓 kanzou 11.046 liver 眉 mayu 10.304 eyebrow 肘 hiji 9.350 elbow
 180 | 0.83
 395	力 chikara n. power, strength  彼は力が強い。 — He is strong.
 180 | 0.98
@@ -2009,25 +1996,6 @@ like to obtain information about the matter.
 604	向こう mukou n. other side; over there
 	向こうを見て。 — Look over there.
 108 | 0.81
-3 Clothing 	(frequency per million words)
-(服 ・ 靴) (Clothes, shoes)	靴下 kutsushita 5.960 socks
-服 fuku 44.047 clothes, dress, outfit	ネクタイ nekutai 5.928 tie
-靴 kutsu 29.758 shoes	上着 uwagi 5.765 jacket
-着物 kimono 28.467 kimono	手袋 tebukuro 5.740 gloves
-洋服 youfuku 25.972 clothes, suit, dress	ブーツ buutsu 5.685 boots
-ボタン botan 24.901 button	マフラー mafuraa 5.264 scarf ポケット poketto 17.478 pocket	ワンピース wanpiisu 5.238 one-piece1
-コート kooto 16.109 coat (also court)	ブラウス burausu 3.748 blouse
-帽子 boushi 15.985 hat, cap	スカーフ sukaafu 2.771 scarf
-ベスト besuto 13.534 vest (also best)	ハイヒール haihiiru 1.802 high heels
-スーツ suutsu 12.800 suit	カーディガン kaadigan 1.507 cardigan 衣装 ishou 12.372 costume	ソックス sokkusu 1.147 socks シャツ shatsu 12.366 shirt	運動靴 undou gutsu 0.936 sports shoes
-Tシャツ tii shatsu 12.061 T-shirt
-スカート sukaato 11.523 skirt	(アクセサリー) (Accessories)
-パンツ pantsu 10.779 pants, shorts, underpants	時計 tokei 22.236 watch (also clock)
-帯 obi 10.219 obi, belt	眼鏡 megane 19.322 glasses, spectacles 浴衣 yukata 10.189 yukata, cotton kimono	バッグ baggu, bakku 16.658 bag 制服 seifuku 9.776 uniform	鞄 kaban 10.529 bag
-ズボン zubon 9.286 pants, trousers	アクセサリー akusesarii 7.308 accessory ジャケット jaketto 8.491 jacket	ネックレス nekkuresu 5.278 necklace 下着 shitagi 8.344 underwear	ピアス piasu 4.550 earrings for pierced ears
-ドレス doresu 8.279 dress	ブレスレット buresuretto 1.733 bracelet
-セーター seetaa 6.622 sweater	イヤリング iyaringu 1.453 earrings
-1 Polysemous entry (could mean something other than clothes).
 605	同時 douji n. simultaneous, at the same time
 	同時に二つのことはできない。 — I can’t do two things at the same time.
 108 | 0.96
@@ -2669,23 +2637,6 @@ Okinawa by ship.
 811	きっかけ kikkake n. opportunity, motive
 これがきっかけで彼女と会った。 — Thanks to this opportunity, I met her.
 79 | 0.86
-4 Colors 		(frequency per million words)
-(i-adjective) 白い shiroi 82.295 white 赤い akai 46.253 red 黒い kuroi 44.745 black 青い aoi 32.368 blue (also pale; unripe)
-黄色い kiiroi 13.818 yellow 茶色い chairoi 4.657 brown
-(noun) 
-茶 cha 78.641 brown (also tea)1 緑 midori 57.430 green (also greenery)
-黒 kuro 42.361 black 白 shiro 41.260 white (also innocence) 赤 aka 27.584 red	黄色 kiiro 15.512 yellow ピンク pinku 12.791 pink 青 ao 12.015 blue
-ブルー buruu 10.392 blue 緑色 midoriiro 9.734 green 茶色 chairo 7.394 brown オレンジ orenji 7.150 orange2 灰色 haiiro 6.871 grey 紫 murasaki 6.096 purple
-グレー gurei 5.111 grey 金色 kin’iro 4.429 gold 紫色 musarakiiro 3.967  purple
-黄 ki 3.886 yellow 銀色 gin’iro 3.722 silver 紺 kon 3.102 navy blue 水色 mizuiro 2.527 light blue	紺色 kon’iro 1.563 navy blue 黄緑色 kimidori iro 0.739 yellow green
-黄緑 kimidori 0.501 yellow green
-(真～) (“ma-”)
-真っ赤 makka 16.050 bright red (also downright)
-真っ白 masshiro 12.432 pure white
-真っ暗 makkura 10.314 black 
-(also pitch-dark) 真っ黒 makkuro 9.758 black 真っ青 massao 4.778 blue 真っ黄色 makkiiro 0.085 yellow
-1	May include instances of “ぉ茶  o-cha (tea)”.
-2	May include instances of “orange” as a fruit.	
 812	授業 jugyou n. class, lesson at school
 	授業は九時から始まる。 — Classes begin  at 9 a.m.
 79 | 0.80
@@ -3274,17 +3225,6 @@ I haven’t visited my parents in ages.
 994	作成(する) sakusei(suru) n., v. make, create
 	最近自分のウェブサイトを作成しました。 —  
 I created my own website recently.
-5 Countries 	(frequency per million words)
-日本 nihon, nippon 770.457 Japan	北朝鮮 kitachousen 16.683 Democratic アメリカ amerika 234.057 America	People’s Republic of Korea, North Korea
-中国 chuugoku 123.164 China1	英国 eikoku 15.828 United Kingdom, Britain イギリス igirisu 72.499 United Kingdom, 	ベトナム betonamu 15.215 Vietnam
-Britain, England	アフリカ afurika 15.083 Africa フランス furansu 59.678 France	エジプト ejiputo 14.587 Egypt
-ドイツ doitsu 48.680 Germany	ブラジル burajiru 14.293 Brazil
-韓国 kankoku 45.434 Korea, South Korea, 	スイス suisu 13.297 Switzerland
-	Republic of Korea	イラク iraku 12.359 Iraq
-米国 beikoku 39.373 United States オランダ oranda 12.293 Netherlands オーストラリア oosutoraria 36.606 Australia ニュージーランド nyuujiirando 10.795 New 
-イタリア itaria 31.627 Italy	Zealand インド indo 30.446 India	シンガポール shingapooru 10.662 Singapore カナダ kanada 24.434 Canada	フィリピン firipin 10.506 Philippines ロシア roshia 22.357 Russia	メキシコ mekishiko 10.088 Mexico スペイン supein 19.989 Spain	朝鮮 chousen 9.417 Korea ソ連 soren 18.798 Soviet Union	イラン iran 8.342 Iran タイ tai 18.259 Thailand	スウェーデン suweeden 8.327 Sweden
-台湾 taiwan 18.113 Taiwan	インドネシア indoneshia 7.588 Indonesia
-1 May include instances of chuugoku meaning the region in Japan.
 64 | 0.78
 995	名 na n. name
 	父の名は利行、母の名は愛子です。 —  
@@ -4003,83 +3943,7 @@ v. talk, chat
 1207	方々 katagata n. people
 	多くの方々がこの企画にご参加くださっています。 — A lot of people have joined the project.
 51 | 0.86
-6 Emotions 	(frequency per million words)
-(心情 ・ 気分) (Feelings) 気持ち kimochi 327.991 feeling 心 kokoro 311.791 mind, thought, feeling, heart 気分 kibun 77.348 feeling, mood 性格 seikaku 70.200 character, personality 心理 shinri 10.465 psychology 心地 kokochi 7.917 feelings 機嫌 kigen 7.698 temper, mood 情 jou 7.174 emotion 心情 shinjou 5.298 mentality 情緒 joucho 3.440 emotion 気性 kishou 2.241 temperament
-(心的態度など) (Attitude/mental state)
-期待(する) kitai(suru) 93.563 expectation; expect 希望(する) kibou(suru) 59.760 hope, wish, request; hope, wish, desire
-我慢(する) gaman(suru) 43.158 patience, 
-endurance, tolerance; be patient, endure
-願い negai 26.887 wish, hope 勇気 yuuki 25.496 courage, bravery 覚悟(する) kakugo(suru) 21.238 readiness, preparedness; be ready
-確信(する) kakushin(suru) 16.729 conviction; 
-be convinced
-動機 douki 13.877 motive 意欲 iyoku 12.834 will, motivation 情熱 jounetsu 10.501 passion 緊張感 kinchou-kan 9.635 tension やる気 yaruki 8.307 motivation, enthusiasm 望み nozomi 7.084 hope 願望(する) ganbou 6.300 desire
-(ネガティブな気持ち) (Negative feelings)
-嫌 iya, ya 141.232 unpleasant, disagreeable 辛い tsurai 133.413 hard, difficult, painful 心配(する) shinpai(suru) 119.840 anxious, worried; anxiety, worry, care; worry, be anxious
-怖い kowai 110.664 frightening, scary, be terrified 不安 fuan 95.516 anxiety, concern 悲しい kanashii 86.265 sad, unhappy 寂しい sabishii 60.226 lonely, lonesome 嫌い kirai 44.328 dislike, hate 苦しい kurushii 41.468 painful, hard, difficult 恥ずかしい hazukashii 41.457 ashamed, 
-embarrassed
-迷惑(する) meiwaku 35.411 troublesome, 
-annoying; annoyance, nuisance, trouble;  be inconvenienced
-不満 fuman 25.587 dissatisfaction, discontent; discontented
-悔しい kuyashii 22.275 regrettable, frustrating; 
-feel regret
-やばい yabai 18.359 risky, chancy 苦痛 kutsuu 15.479 pain 羨ましい urayamashii 14.925 envious, enviable 孤独 kodoku 14.837 lonely 情けない nasakenai 10.948 miserable 面倒くさい mendou-kusai 8.453 troublesome 空しい munashii 6.379 empty 不快 fukai 6.270 annoying 不愉快 fu-yukai 6.003 irritating 哀れ aware 5.461 pitiful 憂鬱 yuutsu 3.834 depressing 腹立たしい haradatashii 3.702 exasperating 憎い nikui 2.192 hateful 憎たらしい nikutarashii 1.339 unlovable 忌々しい imaimashii 1.098 annoying ばからしい bakarashii 1.093 stupid 憎らしい nikurashii 0.610 annoying
-(ネガティブな気持ち ・ 名詞)  (Negative feelings: nouns) ショック shokku 40.389 shock 悩み nayami 24.777 trouble, worry 恐怖 kyoufu 23.827 fear, dread, terror 怒り ikari 23.773 anger, rage, fury 悲しみ kanashimi 18.796 sadness, grief 苦しみ kurushimi 13.163 suffering, agony 寂しさ sabishi-sa 10.964 loneliness 辛さ tsura-sa 9.521 pain 怖さ kowa-sa 6.681 fear 恨み urami 5.417 grudge 悲しさ kanashi-sa 3.943 grief 焦り aseri 3.187 irritation 妬み netami 1.221 jealousy
-(ネガティブな気持ち ・ 動詞)  
-(Negative feelings: verbs) 心配(する) shinpai(suru) 119.840 anxious, worried; anxiety, worry, care; worry, be anxious 困る komaru 116.479 have difficulty, be in trouble
- 
-	泣く naku 80.656 cry 苦労(する) kurou(suru) 53.251 hardship, difficulty, trouble; have trouble, have a hard time
-悩む nayamu 52.134 be worried, be troubled, suffer
-緊張(する) kinchou(suru) 40.327 tension; get tense けんか(する) kenka(suru) 34.306 fight, quarrel 苦しむ kurushimu 23.752 feel pain, suffer 恐れる osoreru 22.114 fear, be afraid 飽きる akiru 21.308 tire, weary, be tired of,  get bored
-落ち込む ochikomu 20.803 sink, go down,  be depressed
-叱る shikaru 20.381 scold, admonish 嫌う kirau 19.205 hate, detest 後悔(する) koukai(suru) 18.596 repentance, regret; regret
-嫌がる iyagaru 16.639 be reluctant, hate 焦る aseru 16.264 be in a hurry; be impatient; be eager
-狂う kuruu 13.635 go mad がっかりする gakkarisuru 13.013 be disappointed 痛む itamu 12.249 ache, hurt, pain 嫉妬(する) shitto(suru) 6.308 envy 恨む uramu 5.671 feel bitter about 絶望(する) zetsubou(suru) 5.528 feel hopeless いらいら(する) iraira(suru) 4.538 annoy 威張る ibaru 3.266 domineer 妬む netamu 1.252 envy
-(中立的な気持ち) (Feelings: neutral)
-大丈夫 daijoubu 104.664 safe, all right 驚く odoroku 92.702 be surprised びっくり(する) bikkuri(suru) 90.027 surprise, 
-amaze
-不思議 fushigi 78.685 wonder, wonderful, strange, mysterious
-涙 namida 56.089 tear 緊張する kinchou(suru) 40.327 tension; get tense 迷う mayou 33.003 get lost; cannot decide 必死 hisshi 29.360 desperate
-平気 heiki 28.188 insensitive, fine; calmness 騒ぐ sawagu 20.968 make noise, fuss
-自慢(する) jiman(suru) 19.447 pride, boast; boast, brag
-驚き odoroki 18.810 surprise, amazement 本気 honki 18.657 seriousness, earnestness; serious, earnest	慎重 shinchou 17.442 careful, discreet
-どきどきする dokidoki-suru 11.311 throb, beat fast
-呑気 nonki 3.608 easy-going
-(ポジティブな気持ち) (Positive feelings) 好き suki 403.262 favorite, like, love 楽しい tanoshii 279.007 pleasant, happy, enjoyable 面白い omoshiroi 185.642 interesting, fun, funny 嬉しい ureshii 179.753 glad, happy 大好き daisuki 72.435 love 幸せ shiawase 71.615 happy; happiness; fortune, luck
-おかしい okashii 69.942 funny, amusing 安心 anshin(suru) 57.707 peace of mind, relief, feel relieved
-幸い saiwai 31.549 lucky, fortunate; happiness; fortunately
-ありがたい arigatai 25.459 kind, welcome 快適 kaiteki 17.738 comfortable 気軽 kigaru 15.406 light-hearted, feel free 幸福 koufuku 15.068 happiness 望ましい nozomashii 13.762 desirable おかしな okashina 10.736 funny, ridiculous 好ましい konomashii 6.130 favourable 心地よい kokochiyoi 5.874 comfortable 快い kokoroyoi 5.782 pleasant, agreeable 愉快 yukai 4.377 fun
-愛しい itoshii 2.826 dear, beloved
-(ポジティブな気持ち ・ 名詞)  
-(Positive feelings: nouns) 感謝 kansha(suru) 53.973 gratitude, appreciation; thank, be grateful
-愛 ai 44.480 love, affection 喜び yorokobi 42.029 pleasure, delight 恋 koi 24.645 love (romantic) 憧れ akogare 20.254 admiration 尊敬(する) sonkei(suru) 17.425 respect; respect 面白さ omoshiro-sa 10.915 interest, fun 嬉しさ ureshi-sa 7.917 pleasure 敬意 keii 4.997 respect
-(ポジティブな気持ち ・ 動詞)  
-(Positive feelings: verbs)
-楽しむ tanoshimu 160.936 enjoy, have a good time 喜ぶ yorokobu 85.561 be glad, rejoice 感動(する) kandou(suru) 60.932 deep emotion; be impressed, be moved	
-			
 
- 
-安心(する) anshin(suru) 57.707 peace of mind, relief; feel relieved
-落ち着く ochitsuku 56.434 settle, calm down 愛する aisuru 53.613 love, care 満足(する) manzoku(suru) 25.212 satisfaction; 
-be satisfied
-ほっとする hottosuru 19.582 be relieved 尊敬(する) sonkei(suru) 17.425 respect;  respect
-憧れる akogareru 14.879 long for; admire わくわく(する) wakuwaku suru 11.553 be 
-bubbling; be excited
-微笑む hohoemu 11.405 smile
-(人の性格) (Personality)
-厳しい kibishii 95.794 strict (also hard) 優しい yasashii 73.588 gentle, tender 明るい akarui 64.806 cheerful (also bright, light) 細かい komakai 55.013 sensitive (also small, fine; trivial)
-暗い kurai 54.779 depressed (also dark) 温かい atatakai 51.916 warm, genial 積極的 sekkyoku-teki 51.747 active, positive, aggressive
-正直 shoujiki 42.378 honesty; honest, truthful; 
-honestly
-冷たい tsumetai 38.726 cold 真面目 majime 25.525 serious; steady; honest 素直 sunao 25.412 obedient, tame
-親切 shinsetsu 19.764 kind 穏やか odayaka 18.858 calm, peaceful (also mild) おとなしい otonashii 16.214 gentle,  
-well-behaved, quiet
-さっぱり sappari 15.862 frank わがまま wagamama 14.329 selfish, 
-disobedient; selfishness
-しつこい shitsukoi 8.632 persistent (also  
-over-rich (food))
-率直 sotchoku 8.262 candid, frank 陽気 youki 7.803 cheerful, lively 大雑把 oozappa 6.147 rough 頑固 ganko 5.203 stubborn 誠実 seijitsu 4.870 honest 消極的 shoukyoku-teki 3.656 passive 狡い zurui 2.845 shrewd 意地悪 ijiwaru 2.693 malicious だらしない darashinai 2.673 untidy ずうずうしい zuuzuushii 2.541 shameless 寛大 kandai 2.332 forgiving, generous, tolerant けち kechi 1.953 mean, stingy 嘘つき usotsuki 1.714 lying; liar 軽率 keisotsu 1.349 careless 短気 tanki 1.338 fiery, short-tempered 厚かましい atsukamashii 1.313 presumptuous 朗らか ooraka 1.056 breezy, cheery 純情 junjou 0.390 pure-hearted そそっかしい sosokkashii 0.348 ditzy, careless, 
-scatterbrained
- 
 1208	要る iru v. need, want
 	何か要るものある？ — Do you need anything?
 51 | 0.95
@@ -4797,24 +4661,6 @@ I shop at the same supermarket every day.
 Kyoto, there are many shrines and temples.
 42 | 0.98
  
-
-7 Family 	(frequency per million words)
-子供 kodomo1 696.364 child 子 ko 287.056 child 母 haha 232.266 mother 親 oya 215.826 parent 家族 kazoku 208.854 family 父 chichi 193.972 father, dad 子供達 kodomo-tachi 162.141 children 娘 musume 136.502 daughter 母さん (o)kaa-san 130.059 mother, Mom 母親 hahaoya 122.515 mother 主人 shujin2 116.857 husband (also shop owner)
-夫 otto 104.761 husband 父親 chichioya 98.212 father 息子 musuko3 86.575 son 父さん (o)tou-san 82.835 father, Dad 妻 tsuma 81.319 wife 両親 ryoushin 79.599 (both) parents 家庭 katei 79.208 family (also home, household)
-(お)婆さん (o)-baa-san4 72.953 grandmother 
-(also old lady) 伯父 oji 56.794 uncle 兄 ani 55.213 elder brother 伯母 oba 48.430 aunt 弟 otouto 44.074 younger brother 赤ちゃん akachan 44.024 baby, infant 妹 imouto 43.882 younger sister 姉 ane 42.920 elder sister
-(お)じいさん (o)-jii-san5 42.582 grandfather 奥さん oku-san 38.364 wife	旦那 danna6 38.002 husband 夫婦 fuufu 36.861 (married) couple 兄弟 kyoudai 33.440 brother, sister, sibling 祖母 sobo 32.501 grandmother 孫 mago 31.512 grandchild 親父 oyaji 31.192 father (also old man, boss) 長男 chounan 31.030 eldest son 主婦 shufu 30.765 housewife ママ mama 27.314 mom, mummy ペット petto 27.036 pet 親戚 shinseki 24.592 relative 親子 oyako 23.431 parent and child, parents and their children
-祖父 sofu 22.823 grandfather
-(お)姉さん (o)-nee-san7 22.746 elder sister 兄さん (o)nii-san 19.239 elder brother 嫁 yome 17.367 wife, bride; daughter-in-law パパ papa 17.094 papa, dad 女房 nyoubou 16.752 wife 家内 kanai 14.505 one’s family, my wife お袋 ofukuro 13.977 mother 次男 jinan 12.812 second son 奥様 oku-sama 12.703 wife 赤ん坊 akanbou 11.912 baby 従兄弟 itoko 11.104 cousin 子孫 shison 10.530 descendant (also posterity) 長女 choujo 10.484 eldest daughter 一家 ikka 10.427 family (also house, household)
-専業主婦 sengyoushufu 10.417 housewife 新婦 shinpu 10.158 bride
-1	Includes kodomo-san.
-2	Includes go-shujin.
-3	Includes musuko-san.
-4	Includes baa-chan, o-baa-chan, o-baa-san.
-5	Includes o-jii-san, o-jii-chan, jii-san.
-6	Includes danna-san and dannna-sama.
-7	Includes o-nee-san, o-nee-chan, nee-chan.	
- 
 1416	就職(する) shuushoku(suru) n. job hunting  
 v. find employment, get a job
 	就職はさらに困難になってきている。 — 
@@ -5456,77 +5302,7 @@ Language is a means of communication.
 1608	明治 meiji n. Meiji (period)
 	この人は明治時代の小説家だ。 — This person was a novelist in the Meiji  period.
 37 | 0.85
- 
-	8 Food 	(frequency per million words)	
-	(主な食材) (Major foods)
-魚 sakana 98.845 fish 野菜 yasai 56.585 vegetable 肉 niku 48.365 meat, flesh, fat 卵 tamago 44.064 egg (also spawn) 米 kome 29.271 rice 牛乳 gyuunyuu 28.931 (cow’s) milk 果物 kudamono 18.890 fruit 粉 kona 16.999 flour (also powder) 小麦粉 komugiko 16.621 flour 缶詰 kanzume 15.731 canned food チーズ chiizu 14.283 cheese 蜂蜜 hachimitsu 12.410 honey 納豆 nattou 11.055 fermented soybeans 具 gu 10.981 ingredient 飯 meshi 10.943 rice 生クリーム namakuriimu 10.844 fresh cream 鮎 ayu 10.700 sweet fish, ayu 麺 men 10.604 noodles パスタ pasuta 10.291 pasta 餅 mochi 9.509 rice cake 豆腐 toufu 9.278 tofu, bean curd 乳製品 nyuusei-hin 2.242 dairy products
-(肉 ・ 魚) (Meat, fish) エビ ebi 14.089 shrimp, prawn 豚肉 butaniku 9.192 pork 牛肉 gyuuniku 8.921 beef 烏賊 ika 8.475 cuttlefish 鮪 maguro 6.145 tuna 鶏肉 toriniku 3.806 chicken1 鰹 katsuo 3.753 bonito 鮭 sake 3.641 salmon 鯖 saba 2.714 mackerel 鰯 iwashi 2.708 sardine 鯵 aji 2.110 horse mackerel サンマ sanma 2.106 saury イクラ ikura 1.882 salted salmon roe 鱈 tara 0.634 cod
-(野菜 ・ 果物) (Vegetables, fruits) 米 kome 29.271 rice
-りんご ringo 26.742 apple
-玉ねぎ tamanegi 24.225 onion にんにく nin’niku 18.755 garlic 人参 ninjin 18.177 carrot	大根 daikon 18.030 Japanese radish, radish
-トマト tomato 17.557 tomato
-栗 kuri 14.519 chestnut
-じゃが芋 jagaimo 12.678 potato
-豆 mame 11.462 bean, pea
-レモン remon 11.087 lemon
-カボチャ kabocha 10.644 pumpkin バナナ banana 10.386 banana 生姜 shouga 10.208 ginger キャベツ kyabetsu 9.831 cabbage サラダ sarada 9.605 salad 葱 negi 9.044 leek きゅうり kyuuri 8.969 cucumber 柿 kaki 8.588 persimmon 桃 momo 8.492 peach オレンジ orenji 7.150 orange ホウレン草 houren-sou 6.835 spinach
-トウモロコシ toumorokoshi 5.459 corn
-茸 kinoko 4.635 mushroom 苺 ichigo 4.531 strawberry 茄子 nasu 4.513 eggplant
-ミカン mikan 4.098 tangerine
-西瓜 suika 3.714 watermelon
-レタス retasu 3.541 lettuce
-葡萄 budou 3.525 grapes 梨 nashi 2.744 pear
-サクランボ sakuranbo 1.422 cherry
-(食事) (Meals)
-夕食 yuushoku 21.036 dinner 朝食 choushoku 15.741 breakfast 昼食 chuushoku 11.871 lunch おやつ oyatsu 7.920 snack 昼ご飯 hirugohan 6.093 lunch 朝ご飯 asagohan 5.242 breakfast 晩ご飯 bangohan 3.766 dinner
-間食 kanshoku 2.119 eating between meals
-(調味料) (Spices, sauces)
-酒 sake 109.387 alcohol; sake, rice wine 塩 shio 49.640 salt 砂糖 satou 39.891 sugar 油 abura 29.989 oil バター bataa 21.788 butter
-しょう油 shouyu 16.869 soy sauce
-ソース soosu 16.860 sauce (also source)	
-			
- 
-	胡椒 koshou 15.730 pepper 酢 su 15.266 vinegar マヨネーズ mayoneezu 3.858 mayonnaise ケチャップ kechappu 2.725 ketchup
-(料理 ・ 調理済みの食品) (Cooked dishes)
-パン pan 48.415 bread 弁当 bentou2 28.633 boxed lunch カレー karee 22.104 curry スープ suupu 21.786 soup ラーメン raamen 15.996 Chinese noodles
-餃子 gyouza 11.780 Chinese dumplings お好み焼き okonomiyaki 10.217 okonomiyaki (Japanese-style savoury pancake with vegetables, meat, seafood etc.) 
-デザート dezaato 9.830 dessert スパゲッティー supagettii 9.684 spaghetti
-豆腐 toufu 9.278 tofu, bean curd 刺身 sashimi 9.194 sliced raw fish おかず okazu 9.192 food, side dish
-うどん udon 8.685 udon, thick white noodles
-サンドイッチ sandoitchi 7.444 sandwich 蕎麦 soba 6.974 buckwheat noodles 焼肉 yakiniku 6.550 grilled meat 味噌汁 miso shiru 6.241 miso soup 煮物 nimono 6.137 stewed food 天ぷら tenpura 6.052 tempura 寿司 sushi 5.093 sushi ハンバーグ hanbaagu 4.613 hamburger steak 焼きそば yakisoba 4.119 fried soba
-ステーキ suteeki 3.396 steak
-焼き鳥 yakitori 3.355 chicken pieces grilled on a skewer
-炒飯 chaahan 3.348 (Chinese) fried rice おでん oden 2.582 winter stew of vegetables, hard-boiled eggs, konnyaku etc. 
-ハンバーガー hanbaagaa 2.412 hamburger
-とんかつ tonkatsu 2.273 pork cutlets
-すき焼き sukiyaki 1.832 sukiyaki オムレツ omuretsu 1.386 omelette 牛丼 gyuudon 1.190 bowl of rice topped  with beef
-カツ丼 katsudon 0.885 bowl of rice topped with pork cutlets
-肉じゃが nikujaga 0.628 meat and potato stew 親子丼 oyako-don 0.415 bowl of rice topped with chicken and egg 海老フライ ebi furai 0.390 fried prawns	茶碗蒸し chawan mushi 0.384 savoury egg custard
-カキフライ kaki furai 0.195 fried oysters
-(菓子類) (Sweets, confectionery) ケーキ keeki 19.666 cake チョコレート chokoreeto 9.408 chocolate
-クッキー kukkii 6.321 cookie 飴 ame 3.987 candy, sweet 団子 dango 2.882 dumpling
-ドーナツ doonatsu 2.647 donut
-ビスケット bisuketto 2.241 biscuit ガム gamu 2.149 gum 饅頭 manjuu 2.138 steamed bun with  bean-jam filling 
-ポテトチップ poteto chippu 1.497 potato chip, crisp
-煎餅 senbei 1.374 rice cracker
-(食 ・ その他) (Others) 食べ物 tabemono 68.105 food 餌 esa 35.240 feed (also bait) 生 nama 32.938 raw, fresh, live 食料 shokuryou 26.687 food 新鮮 shinsen 24.954 fresh 食品 shokuhin 22.872 food 栄養 eiyou 19.037 nutrition 食材 shokuzai 16.172 ingredient, foodstuff 食 shoku 13.349 meal, diet 食生活 shoku-seikatsu 13.213 eating habits 飲み物 nomimono 12.301 drink 飲み込む nomikomu 11.004 swallow 食欲 shokuyoku 10.434 appetite 腐る kusaru 9.539 rot, decay, go off 食物 shokumotsu 9.099 food, dish
-(調理) (Cooking) 切る kiru 166.834 cut 料理(する) ryouri(suru) 103.435 cooking, dish; cook 焼く yaku 66.249 roast, bake 下ろす orosu 37.198 fillet (fish); grate (also take down; unload; withdraw)
-鍋 nabe 36.824 pan, pot; hot-pot 炒める itameru 29.537 fry, stir-fry 沸く waku 29.364 boil (also be in uproar) 巻く maku 29.150 roll up, wind up (also wear around) 煮る niru 24.930 boil, cook 潰す tsubusu 22.001 smash; crush, squash  
-(also ruin)	
-			
 
- 
-茹でる yuderu 20.445 boil 漬ける tsukeru 18.893 soak; pickle 焼ける yakeru 16.380 be burned; be roasted  
-(also be sunburned) 刻む kizamu 16.188 cut into fine pieces  
-(also engrave; tick) レシピ reshipi 9.898 recipe オーブン oobun 9.771 oven 煮込む nikomu 9.698 stew こねる koneru 9.316 knead, squeeze, work 蒸す musu 4.979 steam 炙る aburu 2.633 broil
-(調理器具) (Kitchen utensils) ボール booru 62.319 bowl3 鍋 nabe 36.824 pan, pot (also hot-pot) フライパン furaipan 15.873 frying pan 瓶 bin 11.965 bottle 包丁 houchou 11.322 kitchen knife ざる zaru 5.724 basket 炊飯器 suihan-ki 3.487 rice cooker おたま o-tama 2.017 ladle 菜箸 saibashi 0.708 large chopsticks for 
-cooking
-(食器) (Tableware) ナイフ naifu 42.637 knife 皿 sara 25.487 plate, dish 器 utsuwa 16.649 container グラス gurasu 11.259 glass 箸 hashi 10.435 chopsticks カップ kappu 10.080 cup スプーン supuun 7.934 spoon フォーク fooku 6.553 fork 茶碗 chawan 5.421 rice bowl コップ koppu 5.351 glass 椀 wan 4.049 bowl
-(飲み物) (Drinks) 水 mizu 282.138 water 酒 sake 109.387 alcohol, sake, rice wine 茶 cha4 78.641 tea (also brown) ワイン wain 39.622 wine コーヒー koohii 36.298 coffee ビール biiru 35.890 beer 牛乳 gyuunyuu 28.931 (cow’s) milk 紅茶 koucha 20.633 tea アルコール arukooru 12.038 alcohol ジュース juusu 10.589 juice ミルク miruku 10.530 milk 日本酒 nihonshu 10.377 sake ウイスキー uisukii 6.610 whiskey 焼酎 shouchuu 4.029 Japanese spirits コーラ koora 2.802 cola 緑茶 ryokucha 2.504 green tea ウーロン茶 uuron cha 1.929 Oolong tea ジンジャーエール jinjaa eeru 0.098  ginger ale
- 
-1	toriniku 9169.
-2	Includes ぉ o-bentou.
-3	May include the meaning of “ball” as in a ball game. 4 Includes ぉ茶 o-cha.
 1609	形成(する) keisei(suru) n. formation  
 v. take form
  教育の目的は人格の形成である。 — The object of education is to form character.
@@ -6116,19 +5892,6 @@ v. benefit, add to
 32 | 0.93
 1789	大抵 taitei adv. usually
 	朝ごはんはたいてい七時に食べる。 — I usually have breakfast at seven o’clock.
-9 Furniture 	(frequency per million words)
-(家具 ・ 家電など) (Furniture, electric appliances)
-電話 denwa 224.921 telephone テレビ terebi 173.941 television, TV パソコン pasokon 95.766 personal computer
-コンピューター konpyuutaa, konpyuuta 42.124 computer
-椅子 isu 41.671 chair ベッド beddo 40.082 bed テーブル teeburu 33.838 table 冷蔵庫 reizou-ko 27.601 refrigerator 布団 futon 26.572 futon, Japanese-style bedding 机 tsukue 25.556 desk 時計 tokei 22.236 clock (also watch) 鏡 kagami 21.819 mirror 家具 kagu 13.256 furniture DVD diibuidii 13.053 DVD 畳 tatami 13.019 tatami mat	ソファー sofaa 12.258 sofa
-棚 tana 11.393 shelf, shelves カーテン kaaten 10.953 curtain(s)
-壺 tsubo 9.912 pot, vase エアコン eakon 8.880 air-conditioning, air conditioner
-洗濯機 sentaku ki 7.748 washing machine
-クーラー kuuraa 6.441 air conditioner 箪笥 tansu 5.298 chest of drawers
-スピーカー supiikaa 5.032 speaker(s)
-掃除機 souji ki 3.787 vacuum cleaner 暖房 danbou 3.688 heating 本棚 hondana 3.559 bookshelf 冷房 reibou 3.359 air conditioning
-アイロン airon 3.353 iron プリンター purintaa 2.191 printer
-扇風機 senpuu ki 2.161 fan ヒーター hiitaa 1.288 heater
 32 | 0.86
 1790	狙う nerau v. aim at
 	彼は優勝を狙っている。 — He is aiming to win the championship.
@@ -6810,24 +6573,6 @@ Japanese do not have a custom of tipping.
 29 | 0.92
 1992	込める komeru v. put into, pour into
 	彼は感情を込めて歌を歌った。 — He put emotion into his singing.
-10 Greetings 	(frequency per million words)
-(挨拶言葉・応答詞)
-えー, ええ ee 8635.612 er?, what?; well, yes
-うん un 291.385 yes, yeah
-いや iya 138.900 no ありがとう arigatou 58.125 thank you それでは，それじゃ sore de wa, sore ja 53.578 then, well, so
-やすみ yasumi1 43.540 holiday (also rest; be closed) すみません sumimasen 36.308 thank you; I am sorry; excuse me
-どうぞ douzo 32.431 please
-失礼(する) shitsurei(suru) 29.672 excuse me 
-(also rude, impolite) 願い(する) negai2 26.887 wish, hope おい oi 20.862 hey	ただいま tadaima 17.147 I’m back! (also now, just now, at once)
-ごめん gomen 15.735 pardon, sorry [to decline]
-ううん uun 14.576 no; well
-いえ ie 13.929 no いいえ iie 12.298 no おはよう ohayou 10.148 good morning
-こんにちは konnichiwa 10.010 hello, good afternoon
-いやあ iyaa 9.453 well, sorry おめでとう omedetou 9.423 congratulations
-こんばんは konbanwa 5.746 good evening
-お疲れ様 o-tsukare-sama 4.405 thank you  
-(for your hard work) どうも doumo N/A thank you
-1 Includes おやすみ o-yasumi. 2 Includes お願い o-negai.	
 29 | 0.91
 1993	風邪 kaze n. cold
 	風邪を引かないように気をつけてね。 — Be careful not to catch a cold.
@@ -7515,20 +7260,7 @@ I’m thinking about which club I should join at school.
 26 | 0.86
 2197	ページ peeji n. page
  教科書の五ページを開けてください。 — 
-Open your textbook at page five.
-11 House 	(frequency per million words)
-(住居) (Housing) 家 ie 443.741 house, home 部屋 heya 190.494 room マンション manshon 56.961 apartment, condominium, flat
-窓 mado 54.582 window
-ドア doa 54.383 door トイレ toire 50.843 toilet, restroom,  bathroom
-庭 niwa 46.799 garden, yard 風呂 furo 41.992 bath 我が家 wagaya 38.965 one’s house, one’s  family, one’s home
-階段 kaidan 36.668 stairs 床 yuka 35.172 floor 玄関 genkan 29.521 entrance, front door
-アパート apaato 28.864 apartment
-住宅 juutaku 25.745 house, residence 扉 tobira 22.815 door 廊下 rouka 22.782 corridor 屋根 yane 20.859 roof top 柱 hashira 20.110 pillar, post 門 mon 18.381 gate お宅 otaku 17.893 your house	台所 daidokoro 17.509 kitchen 天井 tenjou 17.383 ceiling 地下 chika 16.304 basement (also underground)
-ガラス garasu 15.612 glass 団地 danchi 14.957 housing development シャワー shawaa 14.522 shower
-室内 shitsunai 12.384 indoor ベランダ beranda 12.006 porch, balcony 屋敷 yashiki 11.255 mansion, residence, estate 社宅 shataku 9.222 company house 居間 ima 8.674 living room 寝室 shinshitsu 8.182 bedroom 風呂場 furoba 3.005 bathroom 洗面所 senmen-jo 2.000 lavatory
-(暮らし・その他) (Living, etc.) 住む sumu 362.306 live 暮らす kurasu 76.712 live 引っ越し(する) hikkoshi(suru) 29.672 moving, removal; move house
-住所 juusho 28.208 address 暮らし kurashi 20.363 life, livelihood 家賃 yachin 13.963 rent 大家 ooya1 11.607 landlord, owner
-1 Includes 大家さん ooya-san.	
+Open your textbook at page five.	
 26 | 0.86 
 2198	止む yamu v. stop  雨が止んだ。 — It has stopped raining.
 26 | 0.94
@@ -8160,27 +7892,6 @@ carries out experiments on changes in matter.
  会社は方針を発表した。 — The company announced their plan.
 23	| 0.84
 2394	ひたすら hitasura adv. determinedly, earnestly  ひたすら前だけを見て頑張った。 — I looked ahead determinedly and persevered.
-12 Leisure 	(frequency per million words)
-映画 eiga 138.825 movie 歌 uta 100.936 song 雑誌 zasshi 76.477 magazine 趣味 shumi 64.787 hobby ピアノ piano 52.202 piano 買い物(する) kaimono(suru) 49.847 shopping;  go shopping
-ゲーム geemu 41.637 game マンガ manga 37.071 comics, cartoon
-ドラマ dorama 37.050 TV drama, drama
-ラジオ rajio 35.379 radio
-温泉 onsen 34.820 hot spring, spa 楽器 gakki 33.416 musical instrument ビデオ bideo 33.248 video ギター gitaa 28.790 guitar 踊る odoru 28.694 dance 海外旅行 kaigairyokou 27.545 travel abroad, foreign trip
-釣り tsuri 26.484 fishing
-クラブ kurabu 25.580 club
-キャンプ kyanpu 22.494 camp チケット chiketto 19.381 ticket 観光(する) kankou(suru) 18.728 sightseeing;  go sightseeing	レース reesu 18.073 race1
-花火 hanabi 18.057 fireworks
-コンサート konsaato 17.004 concert カラオケ karaoke 16.224 karaoke
-演劇 engeki 15.855 drama, play パチンコ pachinko 15.122 pachinko, Japanese pinball
-競馬 keiba 14.832 horse racing
-将棋 shougi 14.492 shogi, Japanese chess DVD diibuidii 13.053 DVD ミュージカル myuujikaru 12.653 musical
-読書 dokusho 11.646 reading
-ジャズ jazu 11.349 jazz ダンス dansu 11.124 dancing
-ドライブ doraibu 10.447 drive
-絵画 kaiga 10.284 painting, picture ショー shoo 10.210 show アニメ anime 9.953 animation
-三味線 shamisen 9.411 shamisen ボーリング booringu 8.759 bowling ショッピング shoppingu 7.329 shopping
-手芸 shugei 1.369 handicrafts
-1 This count may include レース as “lace”.	
 23	| 0.90
 2395	秘密 himitsu n. secret, confidence  秘密は守ります。 — I’ll keep your secret.
 23	| 0.91
@@ -9478,25 +9189,6 @@ We must examine individual cases.
 	 	— That will lead to an imbalance of	demand and supply.
 		19 | 0.99
 
-14 Plants 	(frequency per million words)
-(植物) (Plants)
-桜 sakura 41.650 cherry tree, cherry  blossom
-紅葉 kouyou(suru)1 15.310 autumn leaves;  put on fall colors
-竹 take 14.096 bamboo バラ bara 13.691 rose 梅 ume 9.941 plum, Japanese apricot 杉 sugi 9.391 Japanese cedar 桃 momo 8.492 peach 菊 kiku 8.187 chrysanthemum 稲 ine 6.485 rice plant 芝 shiba 6.133 turf, lawn 蓮 hasu 5.298 lotus チューリップ chuurippu 3.115 tulip ユリ yuri 2.903 lily 苔 koke 2.822 moss
-アジサイ ajisai 2.799 hydrangea イチョウ ichou 2.701 ginkgo ツバキ tsubaki 2.372 camellia ヒマワリ himawari 2.244 sunflower コスモス kosumosu 2.155 cosmos
-レンゲ renge 1.494 Chinese milk vetch
-ケヤキ keyaki 1.476 Japanese zelcova スミレ sumire 1.330 violet
-白樺 shirakaba 1.289 white birch アサガオ asagao 1.262 morning glory
-つつじ tsutsuji 1.232 azalea
-タンポポ tanpopo 1.208 dandelion スイセン suisen 0.897 narcissus シクラメン shikuramen 0.482 cyclamen	クスノキ kusunoki 0.360 camphor tree
-キンモクセイ kin mokusei 0.305 fragrant olive
-(植物に関わる動詞) (Verbs related to plants)
-伸びる nobiru 52.364 grow (also stretch, extend) 咲く saku 43.480 bloom 植える ueru 22.840 plant 栽培(する) saibai(suru) 12.969 cultivation; cultivate
-枯れる kareru 9.251 wither, die 蒔く maku 4.794 sow 茂る shigeru 4.786 grow thick 発芽(する) hatsuga(suru) 2.641 sprout 萎れる shioreru 1.043 wilt
-(植物 ・ 部分) (Plants: parts)
-実 mi 187.389 seed; berry; fruit; nut (also pulp) 花 hana 148.735 flower 葉 ha 35.460 leaf 種 tane2 35.411 seed 根 ne 22.397 root 枝 eda 21.183 branch, twig, bough 芽 me 11.472 bud, shoot 花粉 kafun 8.649 pollen 茎 kuki 7.775 stem 苗 nae 6.521 young plant つぼみ tsubomi 6.301 bud, shoot 幹 miki 6.099 trunk 花弁 kaben 6.012 petal 梢 kozue 1.519 treetop
-1 Reading: kouyou; if read as momiji, the ranking is 22873. 2 Reading changed from shu to tane.	
- 
 2795	届ける todokeru v. deliver; send; report
 	落し物を交番に届けた。 — I reported some lost property to the police box.
 19 | 0.93
@@ -10213,33 +9905,6 @@ Demand has increased rapidly and supply cannot keep up.
 	このサービスの利用者は毎年増えている。 — 
 The number of users of this service increases every year.
 17 | 0.85
- 
-
-15 School 	(frequency per million words)
-(学校) (Educational institution) 学校 gakkou 253.320 school 大学 daigaku 189.107 university, college 高校 koukou 113.696 high school 小学校 shou-gakkou 108.930 elementary school, primary school
-中学 chuugaku 45.672 junior high school 幼稚園 youchi-en 40.674 preschool,  kindergarten
-中学校 chuu-gakkou 39.208 junior high school 塾 juku 27.985 cram school 予備校 yobi-kou 13.192 cram school preparing  for university entrance examinations
-保育園 hoiku-en 11.445 nursery school, day  care
-専門学校 senmon gakkou 10.359 technical  school, college, vocational school
-短大(短期大学) tandai 6.537 junior college 女子大 joshi-dai 3.113 women’s college 男子校 danshi-kou 1.400 boys’ school 女子校 joshi-kou 1.186 girls’ school
-(活動 ・ 行事) (Activity, event) 試験 shiken 41.520 exam 夏休み natsuyasumi 28.409 summer holiday
-クラブ kurabu 25.580 club
-部活 bukatsu 25.367 club サークル saakuru 25.032 club (also circle) 合宿(する) gasshuku(suru) 14.060 training  camp; stay together in a camp
-運動会 undou kai 9.504 sports meeting 修学旅行 shuugaku ryokou 6.590 school trip 卒業式 sotsugyou shiki 5.847 graduation ceremony
-春休み haruyasumi 5.515 spring vacation 入学式 nyuugaku shiki 4.724 entrance ceremony
-学園祭 gakuen-sai 3.890 school festival 遠足 ensoku 3.722 excursion 冬休み fuyuyasumi 3.092 winter vacation	入学試験(入試) nyuugaku shiken1 1.093 entrance examination
-課外活動 kagai katsudou 0.831 after-school activities
-(学生 ・ 教師) (Student, teacher) 学生 gakusei 70.489 student 生徒 seito 64.735 student, pupil 先輩 senpai 44.955 senior, elder 小学生 shougaku-sei 40.165 elementary school student
-高校生 koukou-sei 39.618 high school student 教師 kyoushi 33.621 teacher 中学生 chuugaku-sei 31.659 junior high school student 
-教授 kyouju 24.094 professor 講師 koushi 20.239 lecturer (also speaker) 大学生 daigaku-sei 18.951 college student, university student
-後輩 kouhai 14.052 junior 同級生 doukyuu-sei 13.340 classmate 児童 jidou 12.446 school child 同期 douki 11.922 same period, same class 園児 enji 1.655 kindergarten child
-(授業 ・ クラス ・ 学年など) (Course, class, grade)
-授業 jugyou 78.805 class, lesson at school
-クラス kurasu 48.384 class
-登録(する) touroku(suru) 34.738 registration, entry; register, enroll
-出席(する) shusseki(suru) 20.523 attendance; attend
-単位 tan’i 16.581 unit, credit 講義 kougi 11.230 lecture 学部 gakubu 9.367 faculty, department 学年 gakunen 9.039 grade, year 専攻(する) senkou(suru) 6.174 major 欠席(する) kesseki(suru) 3.280 absence;  be absent
-1 nyuushi is ranked 6376.	
  
 3014	多様 tayou na-adj. various
 	多様なニーズに応える努力をする。 — I make efforts to meet various needs.
@@ -11572,30 +11237,6 @@ article which I have ordered arrived today.
 3398	入手(する) nyuushu(suru) n. acquisition  
 v. get, obtain
 	原料の入手が困難になった。 — It became difficult to get the ingredients.
-17 Sports 	(frequency per million words)
-(スポーツ) (Sports) 野球 yakyuu 50.721 baseball
-スキー sukii 41.962 ski, skiing
-サッカー sakkaa 36.918 football, soccer テニス tenisu 28.871 tennis ゴルフ gorufu 26.100 golf
-マラソン marason 12.635 marathon
-プロ野球 puroyakyuu 12.173 professional baseball
-体育 taiiku, taiku 11.652 physical education, gymnastics
-剣道 kendou 10.199 kendo 水泳 suiei 9.365 swimming バレーボール bareebooru 8.409 volleyball ボート booto 8.216 boat 体操 taisou(suru) 8.169 gymnastics,  calisthenics
-ボクシング bokushingu 7.802 boxing 柔道 juudou 6.869 judo 相撲 sumou 5.233 sumo
-ラグビー ragubii 4.683 rugby
-バドミントン badominton 4.672 badminton 卓球 takkyuu 3.839 table tennis バスケットボール basukettobooru 2.793 basketball
-Ｆ１ efuwan 2.111 Formula 1 スケート sukeeto 1.925 skating プロレス puroresu 1.824 pro wrestling フットボール futtobooru 1.141 football
-ホッケー hokkee 0.752 hockey レスリング resuringu 0.555 wrestling	(スポーツ ・ 施設) (Sports facilities) プール puuru 20.431 pool コート kooto 16.109 court (also coat) スキー場 sukii-jou 11.240 ski area, ski resort グラウンド guraundo 10.098 ground, playground, sports field
-体育館 taiiku-kan, taik-kan 9.468 gym
-スタジアム sutajiamu 2.400 stadium 競技場 kyougi-jou 1.013 sports field
-(スポーツ・イベント) (Sports events)
-試合 shiai 62.626 match, game, bout 大会 taikai 26.430 tournament (also convention, mass meeting)
-オリンピック orinpikku 22.153 Olympics ワールドカップ waarudo-kappu 11.196 World Cup
-(スポーツ・動詞) (Sports: verbs) 練習(する) renshuu(suru) 111.668 practice, training; practice, train
-勝つ katsu 71.815 win, defeat 運動(する) undou(suru) 71.739 exercise, move 負ける makeru 66.824 lose, be beaten 泳ぐ oyogu 28.766 swim 優勝(する) yuushou(suru) 26.684 championship, victory; win 
-トレーニング(する) toreeningu 21.436 training
-プレー(する) puree 18.844 play
-出場(する) shutsujou(suru) 15.201 participation; participate
-競う kisou 7.475 compete 引き分け hikiwake 1.728 draw
 15 | 0.98
 3399	二十代 nijuu dai n. twenties
  二十代は経験が少なかった。 — I was 
@@ -12249,15 +11890,6 @@ the shared toilets and moved out of the dorm.
 14 | 0.96
 3589	不可欠 fukaketsu na-adj. indispensable
 	この活動の成功には、地域住民の協力が不可欠だ。 — In order to make the activity successful, support from local residents is indispensable.
-18 Taste 	(frequency per million words)
-おいしい oishii 209.947 delicious, tasty 薄い usui 133.412 weak (also thin, light) 甘い amai 46.509 sweet (also soft) 濃い koi 44.152 strong (also thick, heavy, deep) まずい mazui 29.815 not taste good (also awkward) すっきり(する) sukkiri(suru) 26.700 feel refreshed
-さっぱり(する) sappari(suru) 17.958 not at all 爽やか sawayaka 15.862 fresh
-しつこい shitsukoi 9.387 over-rich (food)  
-(also persistent) 苦い nigai 8.632 bitter	渋い shibui 6.760 astringent 辛い karai 5.376 spicy, hot 濃厚 noukou 4.173 strong (also thick, heavy, deep) 酸っぱい suppai 3.047 sour
-まろやか maroyaka 2.106 mild
-しょっぱい shoppai 1.864 salty
-淡泊 tanpaku 1.410 light 甘酸っぱい amazuppai 1.148 sour-sweet あぶらっこい aburakkoi 1.081 oily えぐい egui 0.642 harsh
-塩からい shiokarai 0.494 salty
 14 | 0.78
 3590	十九 juu kyuu num. nineteen
 	彼女は十九で結婚した。 — She got married when she was nineteen.
@@ -13000,27 +12632,6 @@ We had about twenty people at the party last night.
 We’ll make an overnight trip over the weekend.
 13 | 0.83
  
-
-19 Time 	(frequency per million words)
-(時間) (Time)
-時 toki 2513.857 time
-日 hi 435.812 day, sun
-時間 jikan 423.024 time 年 toshi 148.875 year (also age) 午後 gogo 118.217 afternoon 午前 gozen 72.809 morning 年間 nenkan 20.515 year, annual 世紀 seiki 5.590 century 秒 byou 1.074 second 週間 shuukan 0.403 week
-(時間帯) (Period of time)
-夜 yoru 220.255 night, evening 朝 asa 187.099 morning 昼 hiru 46.287 noon; daytime 夕方 yuugata 41.221 evening 夜中 yonaka 31.427 middle of the night 深夜 shin’ya 14.318 middle of the night 早朝 souchou 10.333 early morning 明け方 akegata 3.432 dawn 真昼 mahiru 0.823 midday
-(今週・先週・来週) (Week)
-先週 senshuu 10.029 last week 今週 konshuu 9.963 this week 来週 raishuu 8.573 next week
-(今月・先月・来月) (Month)
-今月 kongetsu 14.267 this month 来月 raigetsu 6.136 next month 先月 sengetsu 5.769 last month
-(今年・去年・来年) (Year)
-今年 kotoshi 135.708 this year 去年 kyonen 58.482 last year 来年 rainen 29.188 next year 一昨年 issaku nen 4.557 year before last 再来年 sarai-nen 0.795 year after next	(毎～) (Every ... )
-毎日 mainichi 211.838 every day 毎年 maitoshi 63.465 every year, annually 毎週 maishuu 17.765 every week 毎朝 maiasa 12.069 every morning 毎晩 maiban 3.983 every night
-(月) (Months) 四月 shi-gatsu 99.944 April 三月 san-gatsu 91.185 March 九月 ku-gatsu 78.931 September 十月 juu-gatsu 77.383 October 十二月 juuni-gatsu 75.337 December 一月 ichi-gatsu 74.787 January 八月 hachi-gatsu 74.100 August 七月 shichi-gatsu 73.955 July 五月 go-gatsu 73.788 May 六月 roku-gatsu 73.301 June 十一月 juuichi-gatsu 73.110 November 二月 ni-gatsu 68.017 February
-(今朝・今晩) (Tonight, etc.) 今夜 kon’ya 19.129 tonight 今朝 kesa 18.571 this morning 今晩 konban 3.796 this evening, tonight
-(曜日) (Days of the week) 日曜日 nichiyou bi 33.511 Sunday
-土曜日 doyou bi 23.085 Saturday 金曜日 kinyou bi 10.836 Friday 月曜日 getsuyou bi 9.933 Monday 火曜日 kayou bi 4.496 Tuesday 水曜日 suiyou bi 2.685 Wednesday 木曜日 mokuyou bi 2.600 Thursday 曜日 you bi 2.210 day
-(季節) (Seasons) 夏 natsu 124.770 summer 冬 fuyu 81.166 winter 春 haru 67.796 spring 秋 aki 64.919 autumn, fall
- 
 3803	ごちそう(する) gochisou(suru) n. feast  
 v. give a dinner, treat
 	ゆうべは友達の家で晩ご飯をごちそうになっ
@@ -13660,22 +13271,7 @@ He knocked down the champion in a boxing match.
 3999	写る utsuru v. photograph
 	彼女はきれいに写っていた。 — She photographed very well.
 12 | 0.86
-20 Transportation 	(frequency per million words)
-(交通手段) (Means of transportation)
-車 kuruma 271.365 car (also wheel) 電車 densha 96.469 train
-自転車 jitensha 82.341 bicycle
-船 fune 78.934 ship, boat バス basu 78.568 bus 飛行機 hikouki 72.986 airplane 自動車 jidousha 33.399 car バイク baiku 31.302 motorcycle, motorbike
-タクシー takushii 28.660 taxi
-トラック torakku 21.776 truck
-列車 ressha 21.445 train 新幹線 shin-kansen 20.774 bullet train 地下鉄 chika-tetsu 19.942 subway, underground 鉄道 tetsudou 17.210 railroad, railway 車両 sharyou 11.876 car 救急車 kyuukyuu-sha 11.281 ambulance 乗り物 norimono 9.688 vehicle (also 
-(amusement park) ride) フェリー ferii 9.574 ferry
-国鉄 kokutetsu 8.704 national railway 汽車 kisha 8.686 train 急行 kyuukou 7.641 express train ヘリコプター herikoputaa 6.705 helicopter 特急 tokkyuu 3.653 limited express ロケット roketto 3.377 rocket オートバイ ootobai 3.051 motorcycle 私鉄 shitetsu 2.077 private railroad モノレール monoreeru 1.950 monorail
-(交通 ・ 駅、道路など) (Station, road, etc.) 駅 eki 139.266 station 空港 kuukou 27.467 airport 駅前 ekimae 26.478 in front of the station	交通 koutsuu 17.879 traffic; transportation 交通事故 koutsuu jiko 14.462 traffic accident 切符 kippu 10.927 ticket 高速道路 kousoku douro 10.719 freeway 歩道 hodou 9.921 sidewalk, pavement 線路 senro 9.166 track, railroad 飛行場 hikou-jou 6.956 airport 改札 kaisatsu 3.043 ticket gate
-プラットホーム purattohoomu 1.405 platform 踏切 fumikiri 0.951 (railroad) crossing 停留所 teiryuu-jo 0.543 bus stop
-(交通・  動詞) (Traffic, transportation: verbs) 乗る noru 326.215 ride, get on, take 降りる oriru 85.817 go/come down, get off 乗せる noseru 82.381 take on, put on, pick up 運転(する) unten(suru) 38.154 driving, operation; drive
-降ろす orosu 37.198 take down, unload (also withdraw)
-乗り込む norikomu 13.698 board, get into 往復(する) oufuku(suru) 11.094 round trip 乗り換える norikaeru 10.762 change, transfer 渋滞(する) juutai(suru) 9.967 traffic jam, delay; be delayed
-着陸(する) chakuriku(suru) 4.307 land 乗車(する) jousha(suru) 3.320 get on a train/bus 下車(する) gesha(suru) 2.901 get off 停車(する) teisha(suru) 2.342 stop 離陸(する) ririku(suru) 2.039 take off 渡航(する) tokou(suru) 1.649 make a voyage 搭乗(する) toujou(suru) 1.343 board, get into 降車(する) kousha(suru) 0.159 get off a  train/bus
+
 4000	漏らす morasu v. betray
 	彼女は彼の秘密を漏らした。 — She betrayed his secret.
 12 | 0.84
@@ -14342,13 +13938,6 @@ There were many dead and missing people as a result of the accident.
 v. go bankrupt
 	その会社は倒産した。 — The company went bankrupt.
 11 | 0.99
-21 Weather 	(frequency per million words)
-(天気) (Weather) 雨 ame 86.231 rain 雪 yuki 57.578 snow 雲 kumo 22.224 cloud 台風 taifuu 20.680 typhoon 嵐 arashi 11.467 storm 霧 kiri 9.710 fog 暑さ atsu-sa 9.434 heat
-日差し hizashi 9.128 sunshine 雷 kaminari 7.774 thunder 晴れ hare 5.766 clear weather 大雨 ooame 5.276 heavy rain 梅雨 tsuyu 4.553 rainy season 曇り kumori 2.720 cloudy weather 大雪 ooyuki 2.541 heavy snow 快晴 kaisei 2.404 fine weather 小雨 kosame 2.020 light rain 霜 shimo 1.787 frost	(寒暖) (Temperature/Light) 寒い samui 67.689 cold 明るい akarui 64.806 bright, light  
-(also cheerful) 暗い kurai 54.779 dark (also depressed) 温かい atatakai 51.916 warm (also genial) 暑い atsui 43.369 hot, warm 冷たい tsumetai 38.726 cold 寒さ samu-sa 17.384 cold 冷える hieru 10.468 chill, become cold, feel cold 涼しい suzushii 9.822 cool
-蒸し暑い mushiatsui 1.917 hot and stuffy
-(天気・気候・気温) (Climate)
-天気 tenki 26.179 weather 気温 kion 15.657 temperature 気候 kikou 13.047 climate 天候 tenkou 10.141 weather
 4204	ニュージーランド nyuujiirando n. New  
 Zealand
 	ニュージーランドの首都はウェリントン 
@@ -15009,28 +14598,6 @@ apologized at the beginning of the interview.
 4397	浴衣 yukata n. yukata, cotton kimono
 	私は浴衣で花火を見に行った。 — I went to see the fireworks in my yukata.
 10	| 0.82
-22 Words including letters of the alphabet 	(frequency per million words)
-CD shiidii 38.257 CD, compact disk	PTA piitiiee 4.272 Parent-Teacher Association
-CM shiiemu 30.977 commercial	MD emudii 3.598 minidisc
-JR jeiaaru 21.628 Japan Railways, JR	MC emushii 2.473 Master of Ceremonies
-NHK enueichikei, enuechikei 20.461 Nihon 	F1 efuwan 2.111 Formula 1
-Housou Kyoukai (Japan Broadcasting 	CA shiiei 1.726 cabin attendant
-Corporation)	SOS esuooesu 1.638 SOS (emergency call)
-IT aitii 19.424 IT	DS diiesu 1.622 Nintendo DS (game machine)
-PC piishii 19.003 PC, personal computer	X線 ekkususen 1.605 x-ray
-OS ooesu 14.864 OS, operating system	SE esuii 1.421 systems engineer
-Eメール iimeeru 14.225 e-mail	JA jeiee 1.311 Japan Agricultural Cooperatives
-DVD diibuidii 13.053 DVD	AI eiai 1.285 artificial intelligence
-HP hoomupeeji 12.100 home page	FIFA fifa 1.180 FIFA (International Federation 
-Tシャツ tii shatsu 12.061 T-shirt	of Association Football)
-TV terebi 11.076 TV, television	Yシャツ waishatsu 1.112 dress shirt
-ID aidii 10.876 ID, identification	PV piibui 1.055 promotional video
-DNA dii-enu-ee 9.602 DNA, deoxyribonucleic acid	DV diibui 0.872 domestic violence
-OB oobii 9.068 OB (old boy), alumnus	PDF piidiiefu 0.799 PDF
-URL yuuaarueru 8.746 URL, Uniform Resource 	OG oogii 0.703 old girl, former female student 
-Locator	SNS esuenuesu 0.226 Social Networking 
-PHS piieichiesu 5.149 Personal Handy phone 	Service
-System	WC daburyuushii 0.098 WC
 4398	直径 chokkei n. diameter
 	直径5センチの円を描きなさい。 — Please draw a circle five centimeters in diameter.
 10	| 0.96
@@ -15700,25 +15267,7 @@ v. signal, sign
 暗い照明の中本を読まないでください。 — 
 Please don’t read books in poor light.
 10 | 0.91
- 
 
-23 o-/go- (Honorif ics)
-The items after “お好み焼き” have been re-classified into the headwords without “o-/go-”, thus no frequency information is available.
-	(お～)	お願い o-negai desire, please
-お前 omae 109.138 you (colloquial)	お礼 o-rei thanks, reward おなか onaka 62.420 stomach, belly	お部屋 o-heya room おしゃれ oshare 25.795 fashionable, smart	お肉 o-niku meat お子さん o-ko-san 23.624 (someone else’s) child	お尻 o-shiri hips
-お宅 otaku 17.893 your house	お墓 o-haka grave お袋 ofukuro 13.977 mother	おじいさん o-jii-san grandfather お好み焼き okonomiyaki 10.217 okonomiyaki 	お皿 o-sara dish, plate (Japanese-style savoury pancake with 	お客 o-kyaku guest, visitor vegetables, meat, seafood etc.) 	お仕舞い o-shimai end, conclusion
-お世話 o-sewa care, help	お考え o-kangae opinion, thought, idea お米 o-kome rice	お盆 o-bon Bon Festival, Obon お寺 o-tera temple	お姉ちゃん o-nee-chan elder sister お金 o-kane money	お城 o-shiro castle お店 o-mise store, shop	お砂糖 o-satou sugar
-お母さん o-kaa-san mother, Mom	お姉さん o-nee-san elder sister お話 o-hanashi talking, talk, story
-	お互い o-tagai each other	(ご～)
-お父さん o-tou-san father, Dad	ご意見 go-iken opinion, view, idea お友達 o-tomodachi friend	ご主人 go-shujin landlord, husband
-お客さん o-kyaku-san guest, customer, visitor	ご飯 gohan rice, meal お酒 o-sake alcohol, sake; rice wine	ご指摘 go-shiteki indication
-	お茶 o-cha tea	ご家族 go-kazoku family
-	お婆ちゃん o-baachan grandma	ご両親 go-ryoushin parents
-お客様 o-kyaku-sama customer, client, guest	ご親戚 go-shinseki relatives お菓子 o-kashi sweets, snack food	ご兄弟 go-kyoudai brothers お風呂 o-furo bath	ご住所 go-juusho address おうち o-uchi house	ご結婚 go-kekkon marriage お祭り o-matsuri festival	ご無理 go-muri force お湯 o-yu hot water	ご心配 go-shinpai anxiety お正月 o-shougatsu New Year	ご苦労 go-kurou labour お爺ちゃん o-jii-chan grandfather	ご紹介 go-shoukai introduction お年寄り o-toshiyori old people, senior citizen	ご案内 go-annai guidance
-お弁当 o-bentou boxed lunch	ご相談 go-soudan consultation お昼 o-hiru noon, daytime	ご予算 go-yosan budget お医者さん o-isha-san doctor	ご職業 go-shokugyou occupation お土産 o-miyage present, souvenir	ご質問 go-shitsumon question
-お花 o-hana flower	ご利用 go-riyou usage お水 o-mizu water	ご病気 go-byouki sickness, illness 
-	お婆さん o-baa-san old lady, grandmother	ご報告 go-houkoku report
- 
 4593	招待(する) shoutai(suru) n. invitation v. invite
 	彼女の結婚式に招待された。 — I was invited to her wedding ceremony.
 10	| 0.93
@@ -16376,28 +15925,6 @@ There is a gentle uphill slope in front of  my house.
 9	| 0.77
 4784	相互 sougo n. mutual, each other
  私達は相互の理解を深めるためにもっと話し合うべきだ。 — We should discuss more to deepen our mutual understanding.
-24 Honorif ic expressions 	(frequency per million words)
-(尊敬語 ・ 動詞) (Honorific: verbs) いらっしゃる irassharu 95.080 come, go; be 仰る ossharu 53.051 say, tell, speak 
-くださる kudasaru 34.282 give
-なさる nasaru 28.392 do 召し上がる meshiagaru 3.628 eat
-(謙譲語 ・ 動詞) (Humble: verbs)
-おる oru 1498.811 be, exist いただく itadaku 126.270 get, receive あがる agaru 121.202 take 申し上げる moushiageru 104.406 tell, say いたす itasu 96.161 do 申す mousu 67.133 say, be 参る mairu 58.707 go, come, visit 伺う ukagau 39.298 ask, inquire 承知 shouchi(suru) 25.950 agree, understand 存ずる zonzuru 13.080 know
-頂戴(する) choudai(suru) 8.359 be given, give, have 差し上げる sashiageru 7.154 give 拝見する haikensuru 5.690 take a look, see, look 賜る tamawaru 4.044 to be given 授かる sazukaru 3.364 to be blessed with かしこまる kashikomaru 2.160 humble oneself 参上する sanjousuru 1.160 come 拝借する haishakusuru 0.854 borrow 拝受する haijusuru 0.116 receive 御目にかかる1 omenikakaru N/A see
-(丁寧語) (Polite) ございます gozai masu 427.951 honorific  ending	(お/ご～)
-Most of these items were merged into the forms without “o-/go-”, thus no frequency information is available.
-ご存じ go-zonji 61.585 know, knowing (honorific) ご覧 goran 26.450 looking, seeing (honorific)
-お話しする o-hanashi suru N/A talk (humble) お願いする o-negai suru N/A ask, request, pray 
-(humble) お勧め(する) o-susume(suru) N/A recommendation, advice; recommend, advise (humble)
-ご紹介(する) go-shoukai(suru) N/A introduction; introduce (humble)
-お願い(致す) o-negai-itasu N/A beg, request 
-(humble) お付き合い(する) o-tsukiai(suru) N/A associate with (humble)
-ご説明(する) go-setsumei N/A explanation; explain (humble)
-お伺いする o-ukagai suru N/A visit, come and see; ask (humble)
-お聞きする o-kiki suru N/A ask (humble)
-ご覧下さる goran kudasaru N/A please see, please watch (honorific)
-(て～) (te- form)
-てくださる te kudasaru 458.279 honorific ending ていただく te itadaku 306.947 [humble way to say “receive, get”] でございます de gozai masu 125.026 be (formal)
-1 This word is not included in the lemma list of LUWs.	
 9	| 0.63
 4785	二十七 nijuu nana num. twenty-seven
  ここに二十七の国の留学生が在籍しています。 — International students from twentyseven countries are enrolled here.
@@ -17112,63 +16639,3 @@ v. be agitated
 5000	まあまあ maamaa na-adj. so-so, not bad  adv. fairly, moderately
 レポートの出来はまあまあだった。 — The result of the report was not bad.
 9	| 0.84
- 
-
-	25 Numbers/numerals 	(frequency per million words)	
-	(数) (Numbers)
-一 ichi 583.437 one 二 ni 573.950 two 三 san 374.610 three 四 yon, shi 231.011 four 五 go 160.153 five 六 roku 107.727 six 七 nana 80.622 seven 八 hachi 68.308 eight 十 juu 57.551 ten 九 kyuu 49.528 nine 十二 juu ni 32.868 twelve 十一 juu ichi 30.961 eleven 二十 nijuu 26.221 twenty 十五 juu go 26.101 fifteen 十三 juu san 23.159 thirteen 三十 sanjuu 21.880 thirty 十四 juu shi 20.664 fourteen ゼロ zero 20.540 zero 百 hyaku 18.837 hundred 十六 juu roku 18.771 sixteen 十八 juu hachi 17.811 eighteen 二十一 nijuu ichi 16.672 twenty-one 十七 juu nana 15.748 seventeen 五十 gojuu 14.544 fifty 二十五 nijuu go 13.832 twenty-five 十九 juu kyuu 13.744 nineteen 二十二 nijuu ni 13.739 twenty-two 四十 yonjuu1 13.218 forty 二十三 nijuu san 12.395 twenty-three 六十 rokujuu 12.253 sixty 二十四 nijuu shi 11.943 twenty-four 二千 nisen 9.921 two thousand 二十六 nijuu roku 9.779 twenty-six 二十七 nijuu nana 9.071 twenty-seven 七十 nanajuu 8.913 seventy 千 sen 8.411 one thousand 八十 hachijuu 6.736 eighty 九十 kyuujuu 4.645 ninety 五百 gohyaku 3.941 five hundred 五万 goman 3.501 fifty thousand 万 man 2.016 ten thousand 五千 gosen 1.813 five thousand 億 oku 0.672 one hundred million	(日) (Days and dates)
-一日 ichi nichi 135.856 a day, the day, one day 一日 tsuitachi 53.828 first (date) 三日 mik-ka 40.309 third (date), three days 二日 futsu-ka 39.452 second (date), two days 十日 too-ka 28.551 tenth (date), ten days 十五日 juu go nichi 26.483 fifteenth (date), fifteen days
-四日 yok-ka 25.041 fourth (date), four days 二十日 hatsu-ka 23.363 twentieth (date),  twenty days
-五日 itsu-ka 23.042 fifth (date), five days 三十一日 sanjuu ichi nichi 21.388 thirty-first 
-(date), thirty-one days 三十日 sanjuu nichi 21.298 thirtieth (date),  thirty days 
-七日 nano-ka 19.465 seventh (date), seven days 二十五日 nijuu go nichi 19.385 twenty-fifth 
-(date), twenty-five days 八日 you-ka 18.914 eighth (date), eight days 十六日 juu roku nichi 18.887 sixteenth (date), sixteen days
-十一日 juu ichi nichi 18.794 eleventh (date), eleven days
-十四日 juu yok-ka 18.398 fourteenth (date), fourteen days
-六日 mui-ka 18.288 sixth (date), six days 二十一日 nijuu ichi nichi 17.984 twenty-first 
-(date), twenty-one days 十二日 juu ni nichi 17.940 twelfth (date),  twelve days
-十八日 juu hachi nichi 17.898 eighteenth 
-(date), eighteen days 十七日 juu shichi nichi 17.659 seventeenth 
-(date), seventeen days 九日 kokono-ka 17.566 ninth (date), nine days 二十三日 nijuu san nichi 17.496 twenty-third 
-(date), twenty-three days 二十四日 nijuu yok-ka 17.440 twenty-fourth 
-(date), twenty-four days 十三日 juu san nichi 17.145 thirteenth (date), thirteen days
-二十二日 nijuu ni nichi 16.853 twenty-second 
-(date), twenty-two days	
-			
-
-	二十八日 nijuu hachi nichi 16.511 twentyeighth (date), twenty-eight days
-二十六日 nijuu roku nichi 16.231 twenty-sixth 
-(date), twenty-six days 十九日 juu ku nichi 16.187 nineteenth (date), nineteen days
-二十七日 nijuu shichi nichi 15.780 twentyseventh (date), twenty-seven days
-二十九日 nijuu ku nichi 15.443 twenty-ninth (date), twenty-nine days
-(時刻：時) (Time)
-一時 ichi ji 49.308 at one time, temporary,  for a while
-十時 juu ji 45.486 ten o’clock 九時 ku ji 44.725 nine o’clock 五時 go ji 28.644 five o’clock 八時 hachi ji 27.635 eight o’clock 三時 san ji 27.047 three o’clock 十一時 juu ichi ji 23.840 eleven o’clock 四時 yo ji 23.768 four o’clock 二時 ni ji 21.989 two o’clock 六時 roku ji 21.176 six o’clock 七時 shichi ji 20.160 seven o’clock 十二時 juu ni ji 15.223 twelve o’clock 十三時 juu san ji 5.458 1300 十五時 juu go ji 5.027 1500 十六時 juu roku ji 4.495 1600 零時 rei ji 4.464 twelve o’clock, midnight 十四時 juu yo ji 4.269 1400 十八時 juu hachi ji 3.049 1800 二十時 nijuu ji 2.861 2000 十九時 juu ku ji 2.624 1900 二十一時 nijuu ichi ji 2.422 2100 二十二時 nijuu ni ji 1.598 2200 二十三時 nijuu san ji 1.226 2300 二十四時 nijuu yo ji 0.848 2400
-(時刻：分) (Time: minutes)
-三十分 sanjup-pun, sanjip-pun 95.488 thirty minutes
-十分 jup-pun, jip-pun 36.717 ten minutes 五分 go fun 27.764 five minutes 二十分 nijup-pun, nijip-pun 26.833 twenty minutes
-十五分 juu go fun 26.569 fifteen minutes 一分 ip-pun 10.863 one minute	四十分 yonjup-pun, yonjip-pun 9.923 forty minutes
-三分 san pun 9.245 three minutes 四十五分 yonjuu go fun 4.977 forty-five minutes 五十分 gojup-pun, gojip-pun 4.166 fifty minutes 二十五分 nijuu go fun 3.735 twenty-five minutes 七分 nana fun 3.624 seven minutes 八分 hachi fun, hap-pun 3.294 eight minutes 四分 yon pun 1.759 four minutes 六分 rop-pun 1.668 six minutes 五十五分 gojuu go fun 1.490 fifty-five minutes 三十五分 sanjuu go fun 1.344 thirty-five minutes 九分 kyuu fun 1.130 nine minutes 六十分 rokujup-pun, rokujip-pun 0.714 sixty minutes
-(年) (Years)
-一年 ichi nen 92.923 one year 二年 ni nen 67.738 two years 三年 san nen 67.168 three years 十年 juu nen 57.931 ten years, a decade 二十年 nijuu nen 39.219 twenty years 五年 go nen 39.090 five years 四年 yo nen 31.857 four years 二千年 nisen nen 21.813 2000 (year);  two thousand years
-六年 roku nen 19.661 six years 三十年 sanjuu nen 19.168 thirty years 十五年 juu go nen 18.432 fifteen years 五十年 gojuu nen 17.194 fifty years 八年 hachi nen 16.338 eight years 二千二年 nisen ni nen 15.339 2002 (year) 二千一年 nisen ichi nen 14.908 2001 (year) 四十年 yonjuu nen 13.202 forty years 七年 shichi nen 12.782 seven years 十二年 juu ni nen 11.837 twelve years 十三年 juu san nen 10.991 thirteen years 二千八年 nisen hachi nen 10.558 2008 (year) 二十一年 nijuu ichi nen 10.425 twenty-one years 九年 kyuu nen 9.916 nine years 二千三年 nisen san nen 9.676 2003 (year) 十一年 juu ichi nen 9.561 eleven years 百年 hyaku nen 9.090 hundred years, century 千九百九十九年 sen kyuuhyaku kyuujuu kyuu nen 9.023 1999 (year)
-千九百九十年 sen kyuuhyaku kyuujuu nen 
-9.017 1990 (year)	
-			
-
-	一年半 ichi nen han 8.993 one year and a half 六十年 rokujuu nen 8.743 sixty years 十四年 juu yo nen 7.655 fourteen years 十九年 juu kyuu nen 7.267 nineteen years 十八年 juu hachi nen 6.047 eighteen years 十六年 juu roku nen 6.021 sixteen years 十七年 juu shichi nen 5.540 seventeen years 九十年 kyujuu nen 4.808 ninety years 八十年 hachijuu nen 4.509 eighty years 七十年 nanajuu nen 2.160 seventy years
-(期間：月) (Period: months) 一ヶ月 ik-kagetsu 52.896 one month 三ヶ月 san kagetsu 27.664 three months 二ヶ月 ni kagetsu 23.113 two month 六ヶ月 rok-kagetsu 10.099 six months 四ヶ月 yon kagetsu 9.986 four months 十ヶ月 juk-kagetsu 4.699 ten months 八ヶ月 hachi kagetsu 4.148 eight months 五ヶ月 go kagetsu 3.706 five months 七ヶ月 nana kagetsu 3.353 seven months 九ヶ月 kyuu kagetsu 2.534 nine months 十一ヶ月 juu ichi kagetsu 1.014 eleven months 十二ヶ月 juu ni kagetsu 1.001 twelve months
-(期間：年) (Period: years) 一年間 ichi nenkan 38.645 one year 三年間 san nenkan 21.469 three years 二年間 ni nenkan 15.569 two years 五年間 go nenkan 11.326 five years 十年間 juu nenkan 11.272 ten years 四年間 yo nenkan 9.152 four years 六年間 roku nenkan 6.284 six years 二十年間 nijuu nenkan 4.526 twenty years 八年間 hachi nenkan 2.756 eight years 七年間 nana nenkan 2.578 seven years 九年間 kyuu nenkan 2.427 nine years 三十年間 sanjuu nenkan 2.419 thirty years 五十年間 gojuu nenkan 1.283 fifty years 百年間 hyaku nenkan 1.259 one hundred years 四十年間 yonjuu nenkan 1.111 forty years 六十年間 rokujuu nenkan 0.685 sixty years 七十年間 nanajuu nenkan 0.098 seventy years 千年間 sen nenkan 0.079 one thousand years 八十年間 hachijuu nenkan N/A eighty years 九十年間 kyuujuu nenkan N/A ninety years	(年齢) (Age)
-三歳 san-sai 15.743 three years old 十七歳 juu nana-sai 13.436 seventeen years old 二歳 ni-sai 12.603 two years old 四歳 yon-sai 10.846 four years old 六十歳 rokujus-sai 10.357 sixty years old 一歳 is-sai 9.441 one year old 三十歳 sanjus-sai 9.185 thirty years old 十八歳 juu has-sai 8.893 eighteen years old 二十歳 nijus-sai 8.817 twenty years old 二十歳 hatachi 8.729 twenty years old 五歳 go-sai 8.685 five years old 十五歳 juu go-sai 7.934 fifteen years old 十歳 jus-sai 7.381 ten years old 十九歳 juu kyuu-sai 7.261 nineteen years old 六歳 roku-sai 6.749 six years old 七歳 nana-sai 5.866 seven years old 十六歳 juu roku-sai 5.531 sixteen years old 十四歳 juu yon-sai 5.137 fourteen years old 四十歳 yonjus-sai 4.931 forty years old 十三歳 juu san-sai 4.850 thirteen years old 七十歳 nanajus-sai 4.704 seventy years old 十二歳 juu ni-sai 3.663 twelve years old 九歳 kyuu-sai 3.250 nine years old 五十歳 gojus-sai 3.166 fifty years old 八歳 has-sai 2.541 eight years old 百歳 hyaku-sai 2.536 one hundred years old 八十歳 hachijus-sai 2.459 eighty years old 十一歳 juu is-sai 2.186 eleven years old 九十歳 kyuujus-sai 1.404 ninety years old
-(年代) (Generation) 二十代 nijuu dai 14.838 twenties 三十代 sanjuu dai 12.947 thirties 四十代 yonjuu dai 9.496 forties 五十代 gojuu dai 9.225 fifties 十代 juu dai 8.927 teen years, teens 六十代 rokujuu dai 5.215 sixties 七十代 nanajuu dai 1.937 seventies 八十代 hachijuu dai 1.088 eighties 九十代 kyuujuu dai 0.067 nineties
-(物を数える) (Counting things) 一つ hito-tsu 714.990 one 二つ futa-tsu 160.938 two 三つ mit-tsu 126.354 three	
-			
-
-	四つ yot-tsu 32.290 four 五つ itsu-tsu 17.755 five 六つ mut-tsu 8.820 six 七つ nana-tsu 7.156 seven 八つ yat-tsu 4.899 eight 九つ kokono-tsu 2.001 nine 十 too 0.514 ten
-(人を数える) (Counting people)
-一人 hito-ri 433.912 one person, alone 二人 futa-ri 314.718 two people 三人 san-nin 103.652 three person 四人 yo-nin 44.938 four people 五人 go-nin 27.966 five people 十人 juu-nin 20.522 ten people 六人 roku-nin 15.010 six people 二十人 nijuu-nin 12.580 twenty people 七人 nana-nin 10.501 seven people 三十人 sanjuu-nin 10.021 thirty people 百人 hyaku-nin 8.517 one hundred people 五十人 gojuu-nin 7.012 fifty people 八人 hachi-nin 6.601 eight people 四十人 yonjuu-nin 5.712 forty people 九人 kyuu-nin 3.902 nine people 千人 sen-nin 3.640 one thousand people 六十人 rokujuu-nin 1.832 sixty people 八十人 hachijuu-nin 1.428 eighty people 七十人 nanajuu-nin 0.799 seventy people 九十人 kyuujuu-nin 0.482 ninety people	(回数) (Counting times) 一回 ik-kai 147.084 once 二回 ni kai 46.411 twice 三回 san kai 29.718 three times 四回 yon kai 12.048 four times 五回 go kai 10.293 five times 十回 juk-kai 4.867 ten times 六回 roko-kai 4.557 six times 八回 hachi kai, hak-kai 2.984 eight times 七回 nana kai 2.642 seven times 九回 kyuu kai 2.197 nine times 二十回 nijuk-kai 2.145 twenty times 百回 hyak-kai 1.630 one hundred times 千回 sen kai 1.326 one thousand times 三十回 sanjuk-kai 0.636 thirty times 五十回 gojuk-kai 0.360 fifty times 四十回 yonjuk-kai 0.195 forty times 六十回 rokujuk-kai 0.134 sixty times 七十回 nanajuk-kai 0.073 seventy times
-(金額) (Amount of money)
-千円 sen en 21.074 one thousand yen 三百円 sanbyaku en 10.038 three hundred yen 五百円 gohyaku en 16.502 five hundred yen 百円 hyaku en 15.513 one hundred yen 一万円 ichiman en 14.888 ten thousand yen 五千円 gosen en 10.527 five thousand yen 二千円 nisen en 9.836 two thousand yen 一円 ichi en 4.253 one yen 五十円 gojuu en 3.548 fifty yen 五円 go en 1.502 five yen 二円 ni en 0.849 two yen	
-	1 Merged into shijuu.		
- 
- 
