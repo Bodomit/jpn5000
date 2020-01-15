@@ -174,7 +174,7 @@ me sleepy.
  
  	42	私 watashi, watakushi, atashi pron. I  私は寿司が好きです。 — I like sushi.
 3404 | 0.90
-43	てしまう te shimau cp. end up doing  .  .  .
+43	てしまう te shimau cp. end up doing  ...
 	ダイエット中なのに、つい、甘いものを食べてしまう。 — I’m on a diet, but I can’t stop 
 eating sweets.
 3352 | 0.78
@@ -192,7 +192,7 @@ Variation of watashi (I): The most formal variant, watakushi, is used most frequ
 46	この kono adn. this
 	この本をもう読みましたか。 — Have you read this book?
 2974 | 0.97 | BK
-47	無い nai i-adj. There is no ... , no  .  .  .
+47	無い nai i-adj. There is no ... , no  ...
 	今、お金が無いんです。 — I have no money now.
 2953 | 0.96
 48	行く iku, yuku v. go; come  すぐ行きます。 — I’m just coming.
@@ -248,7 +248,7 @@ invited our family and friends to the wedding.
 1876 | 0.92
 65	その sono interj. uh, er, um, mm
  「どうして授業を休んだの。」「それは、そ 
-の ... 。」 — “Why were you absent from the class?” “Uh, well  .  .  .”
+の ... 。」 — “Why were you absent from the class?” “Uh, well  ...”
 1868 | 0.01 | SP
 66	まで made p. to, till, until
 	休暇は明日から来週の水曜日までです。 — 
@@ -274,7 +274,7 @@ read books on Sunday.
 is ninety years old, yet he can do everything by himself.
 1709 | 0.86
 73	ん n interj. oh, mm, well
-	ん、何かがおかしいな。 — Hmm, something is wrong  .  .  .
+	ん、何かがおかしいな。 — Hmm, something is wrong  ...
 1706 | 0.16 | SP
 74	あー aa interj. er, uh, um, hmm, ah, oh
  「入ってもいい。」「あー、ちょっと待って。」 — 
@@ -313,7 +313,7 @@ She is a doctor as well as a singer.
 85	ちょっと chotto adv. (just) a little, a bit
 	最近、ちょっと太ってしまった。 — I gained a bit of weight recently.
 1352 | 0.66
-86	てくる te kuru cp. go and  .  .  .
+86	てくる te kuru cp. go and  ...
 	スーパーへ行ってきます。 — I am going to the supermarket.
 1351 | 0.98
 87	だけ dake p. only, alone, merely
@@ -322,7 +322,7 @@ She is a doctor as well as a singer.
 88	くらい, ぐらい kurai, gurai p. about, around
 	彼女は二十歳ぐらいに見える。 — She looks around twenty years old.
 1318 | 0.79
-89	ではない de wa nai cp. it is not the case that  .  .  .
+89	ではない de wa nai cp. it is not the case that  ...
 	私は日本人ではない。 — I’m not Japanese.
 1304 | 0.96
 90	えーと eeto interj. well, let me see
@@ -331,7 +331,7 @@ She is a doctor as well as a singer.
 91	方 hou n. direction, way; side
 	この部屋は午後になると西の方から日が差す。 — This room gets the sun in the afternoon from the west.
 1301 | 0.95
-92	ていく，てく te iku, teku cp. go and  .  .  .
+92	ていく，てく te iku, teku cp. go and  ...
 	明日の夕食会にはどんな服を着ていったらいいですか。 — What kind of dress should I wear for the dinner tomorrow?
 1245 | 0.92
 93	訳 wake n. reason, cause
@@ -388,7 +388,7 @@ He is doing research on solar power.
 110	作る tsukuru v. make, create, cook
 	彼女は朝食に目玉焼きを作った。 — She cooked a fried egg for her breakfast.
 847 | 0.97
-111	てみる te miru cp. try  .  .  .ing
+111	てみる te miru cp. try  ...ing
 	ちょっと味見してみますか。 — Would you like to taste?
 816 | 0.97
 112	聞く，聴く kiku v. hear; listen; listen to, obey  彼女は母親の言うことを聞かなかった。 — 
@@ -438,7 +438,7 @@ We should not talk about things like that in front of children.
 124	多い ooi i-adj. many, much, a lot of
 	今年は雨が多い。 — There has been a lot of rain this year.
 752 | 0.98
-125	のではない，んではない no de wa nai, n de wa nai cp. it is not that  .  .  .
+125	のではない，んではない no de wa nai, n de wa nai cp. it is not that  ...
 	あなただけが悪いのではない。 — This is not only your fault.
 726 | 0.89
 126	よく yoku adv. good, well; often
@@ -7052,7 +7052,7 @@ This bus runs between Tokyo and Osaka.
 2134	資金 shikin n. funds
 	資金が足りなかったため、計画は失敗してしまった。 — Owing to a shortage of funds our project failed.
 27 | 0.84
-2135	しかたない shikatanai i-adj. It can’t be helped, be beyond any help, I can’t help  .  .  .
+2135	しかたない shikatanai i-adj. It can’t be helped, be beyond any help, I can’t help  ...
 	この問題についてこれ以上考えてもしかたな
 い。 — There is no point in dwelling on this matter any more.
 27 | 0.75
@@ -12140,7 +12140,7 @@ We decided to get married after being together for ten years. 13 | 0.82
 	その国は国民一人当たりの所得が低い。 — 
 The average annual income of that country is low.
 13 | 0.71
-3662	難い gatai suffix hard to  .  .  .
+3662	難い gatai suffix hard to  ...
 	それはにわかには信じ難い出来事だ。 — It’s an incident which is hard to believe.
 13 | 0.32
 3663	リーダー riidaa n. leader
