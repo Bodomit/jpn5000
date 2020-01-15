@@ -1,0 +1,9 @@
+name: jpn5000
+dependencies:
+- python=3
+- pip
+- mypy
+- pylint
+- pip:
+  - mecab-python3
+  - google-cloud-texttospeech

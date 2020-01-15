@@ -1,4 +1,0 @@
-mecab-python3
-mypy
-pylint
-google-cloud-texttospeech
